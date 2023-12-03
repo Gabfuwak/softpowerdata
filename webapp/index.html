@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Education and Entertainment Analytics Dashboard</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+<div class="container mt-5">
+  <div class="row">
+    <div class="col-md-6">
+      <h2>Students</h2>
+      <canvas id="studentsChart"></canvas>
+    </div>
+    <div class="col-md-6">
+      <h2>Box Office</h2>
+      <canvas id="boxOfficeChart"></canvas>
+    </div>
+  </div>
+  
+  <div class="row my-4">
+    <div class="col-12">
+      <div class="input-group mb-3">
+        <div class="input-group-prepend">
+          <label class="input-group-text" for="countrySelector">Select a country:</label>
+        </div>
+        <select class="custom-select" id="countrySelector">
+          <option value="">Global</option>
+          <!-- Dynamically populated country options will go here -->
+        </select>
+        <div class="input-group-append">
+          <button class="btn btn-primary" type="button" id="updateButton">Update Graphs</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row">
+  <div class="col-12">
+    <h2>Student-Box Office Correlation</h2>
+    <canvas id="correlationChartCanvas"></canvas>
+  </div>
+</div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

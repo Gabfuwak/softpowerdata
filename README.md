@@ -49,7 +49,7 @@ J'ai choisi d'etudier donc, l'impact des films amerinains sur
  
 ## Recuperation de données
 
-#Recuperation de données pour les etudiants:
+### Recuperation de données pour les etudiants:
 
 #### Recuperer les données initiales
 
@@ -83,4 +83,35 @@ ORDER BY DESC(?release_date)
 ->note: il manque de la data, ce n'est pas trop grave car les films impactants culturellements sont aussi souvent les plus connus, et la data ne manque pas sur le film.
 ->paralelisation
 
-#### On recupere le CSV dans graphDB et on insere la data
+#### On recupere le CSV dans ontorefine et on transforme en triplets.
+
+
+## Affichage des données
+
+On affiche les données grace a un line chart de chartJS.
+
+On a 3 graphes, 2 de données, un d'analyse.
+
+- Les deux graphes de données 
+ - Le nombre d'étudiants aux USA originaire du pays etudié (année par année)
+ - le revenu total de tous les films americains dans le pays etudié (année par année)
+
+Le graphe d'analyse est en fait une seule valeur. C'est une quantité de 0 a 1. 1 veut dire que les deux courbes sont exactement les memes, 0 veut dire qu'elles sont exactement inverses.
+
+Ici on essaie de montrer que les courbes ont une tres grosses correlation et donc une valeur proche de 1.
+
+
+## Conclusion
+
+Pas vraiment de correlation, le box office monte dans tous les pays, et au final, si il y a une forte correlation au global, c'est juste parce que les deux valeurs augmentent de facon paralleles sans forcement qu'une cause l'autre.
+
+Des cas comme le Japon ou l'Argentine ont une tres forte correlation inverse, de moins en moins d'etudiants aux USA de plus en plus de box office pour les films des USA.
+
+On pourrait avoir plusieurs perspectives d'ameliorations. Les données des visas vacances pouraient etre plus representatifs du soft power par exemple. on pourrait aussi essayer de trouver des donées plus anciennes, malheureusement elles ne sont pas precises avant 1999 pour les USA.
+
+On pourrait aussi etendre a d'autres medias que les films, la musique par exemple (bien que plus difficilement quantifiable, streams, albums vendus, les données sont differentes selon les epoques)
+
+
+## Sources/extension du sujet:
+
+https://sites.nationalacademies.org/cs/groups/dbassesite/documents/webpage/dbasse_179613.pdf

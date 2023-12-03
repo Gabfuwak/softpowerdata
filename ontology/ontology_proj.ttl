@@ -46,7 +46,7 @@ iut:boxOffice rdf:type owl:DatatypeProperty ;
 
 
 ###  http://cours.iut-orsay.fr/npbd/projet/maury/countryName
-iut:countryName rdf:type owl:DatatypeProperty ;
+iut:CountryName rdf:type owl:DatatypeProperty ;
                 rdfs:domain iut:Country .
 
 
