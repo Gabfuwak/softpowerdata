@@ -1,0 +1,5041 @@
+Country,StudentsYear,StudentsNb,StudentsCode
+Burundi,1999,40,1
+Burundi,2000,55,2
+Burundi,2001,75,3
+Burundi,2002,66,4
+Burundi,2003,80,5
+Burundi,2004,82,6
+Burundi,2005,78,7
+Burundi,2006,85,8
+Burundi,2007,87,9
+Burundi,2008,85,10
+Burundi,2009,113,11
+Burundi,2010,123,12
+Burundi,2011,103,13
+Burundi,2012,124,14
+Burundi,2013,122,15
+Burundi,2014,165,16
+Burundi,2015,148,17
+Burundi,2016,180,18
+Burundi,2017,134,19
+Burundi,2018,141,20
+Burundi,2019,164,21
+Burundi,2020,149,22
+Burundi,2021,157,23
+Burundi,2022,194,24
+Djibouti,1999,7,25
+Djibouti,2000,8,26
+Djibouti,2001,8,27
+Djibouti,2002,5,28
+Djibouti,2003,2,29
+Djibouti,2004,5,30
+Djibouti,2005,15,31
+Djibouti,2006,14,32
+Djibouti,2007,5,33
+Djibouti,2008,13,34
+Djibouti,2009,3,35
+Djibouti,2010,11,36
+Djibouti,2011,8,37
+Djibouti,2012,13,38
+Djibouti,2013,7,39
+Djibouti,2014,7,40
+Djibouti,2015,9,41
+Djibouti,2016,10,42
+Djibouti,2017,9,43
+Djibouti,2018,9,44
+Djibouti,2019,6,45
+Djibouti,2020,6,46
+Djibouti,2021,6,47
+Djibouti,2022,10,48
+Eritrea,1999,105,49
+Eritrea,2000,134,50
+Eritrea,2001,161,51
+Eritrea,2002,141,52
+Eritrea,2003,127,53
+Eritrea,2004,194,54
+Eritrea,2005,199,55
+Eritrea,2006,184,56
+Eritrea,2007,163,57
+Eritrea,2008,168,58
+Eritrea,2009,164,59
+Eritrea,2010,120,60
+Eritrea,2011,110,61
+Eritrea,2012,106,62
+Eritrea,2013,97,63
+Eritrea,2014,108,64
+Eritrea,2015,109,65
+Eritrea,2016,138,66
+Eritrea,2017,151,67
+Eritrea,2018,117,68
+Eritrea,2019,81,69
+Eritrea,2020,53,70
+Eritrea,2021,77,71
+Eritrea,2022,73,72
+Ethiopia,1999,1286,73
+Ethiopia,2000,1205,74
+Ethiopia,2001,1133,75
+Ethiopia,2002,1119,76
+Ethiopia,2003,1060,77
+Ethiopia,2004,1129,78
+Ethiopia,2005,1266,79
+Ethiopia,2006,1328,80
+Ethiopia,2007,1316,81
+Ethiopia,2008,1583,82
+Ethiopia,2009,1553,83
+Ethiopia,2010,1392,84
+Ethiopia,2011,1334,85
+Ethiopia,2012,1463,86
+Ethiopia,2013,1516,87
+Ethiopia,2014,1472,88
+Ethiopia,2015,1517,89
+Ethiopia,2016,1847,90
+Ethiopia,2017,2118,91
+Ethiopia,2018,2061,92
+Ethiopia,2019,2356,93
+Ethiopia,2020,2166,94
+Ethiopia,2021,2680,95
+Ethiopia,2022,3006,96
+Kenya,1999,5684,97
+Kenya,2000,6229,98
+Kenya,2001,7097,99
+Kenya,2002,7862,100
+Kenya,2003,7381,101
+Kenya,2004,6728,102
+Kenya,2005,6559,103
+Kenya,2006,6349,104
+Kenya,2007,5838,105
+Kenya,2008,5877,106
+Kenya,2009,5384,107
+Kenya,2010,4666,108
+Kenya,2011,3898,109
+Kenya,2012,3516,110
+Kenya,2013,3201,111
+Kenya,2014,3072,112
+Kenya,2015,3019,113
+Kenya,2016,3189,114
+Kenya,2017,3322,115
+Kenya,2018,3451,116
+Kenya,2019,3710,117
+Kenya,2020,3502,118
+Kenya,2021,3799,119
+Kenya,2022,4059,120
+Rwanda,1999,131,121
+Rwanda,2000,261,122
+Rwanda,2001,263,123
+Rwanda,2002,149,124
+Rwanda,2003,275,125
+Rwanda,2004,191,126
+Rwanda,2005,215,127
+Rwanda,2006,210,128
+Rwanda,2007,270,129
+Rwanda,2008,366,130
+Rwanda,2009,451,131
+Rwanda,2010,457,132
+Rwanda,2011,465,133
+Rwanda,2012,565,134
+Rwanda,2013,720,135
+Rwanda,2014,800,136
+Rwanda,2015,928,137
+Rwanda,2016,1088,138
+Rwanda,2017,1232,139
+Rwanda,2018,1292,140
+Rwanda,2019,1444,141
+Rwanda,2020,1333,142
+Rwanda,2021,1226,143
+Rwanda,2022,1372,144
+Seychelles,1999,15,145
+Seychelles,2000,13,146
+Seychelles,2001,20,147
+Seychelles,2002,19,148
+Seychelles,2003,10,149
+Seychelles,2004,10,150
+Seychelles,2005,2,151
+Seychelles,2006,6,152
+Seychelles,2007,8,153
+Seychelles,2008,9,154
+Seychelles,2009,5,155
+Seychelles,2010,6,156
+Seychelles,2011,10,157
+Seychelles,2012,16,158
+Seychelles,2013,16,159
+Seychelles,2014,14,160
+Seychelles,2015,20,161
+Seychelles,2016,16,162
+Seychelles,2017,11,163
+Seychelles,2018,16,164
+Seychelles,2019,11,165
+Seychelles,2020,9,166
+Seychelles,2021,6,167
+Seychelles,2022,18,168
+Somalia,1999,91,169
+Somalia,2000,96,170
+Somalia,2001,87,171
+Somalia,2002,87,172
+Somalia,2003,37,173
+Somalia,2004,55,174
+Somalia,2005,50,175
+Somalia,2006,78,176
+Somalia,2007,37,177
+Somalia,2008,40,178
+Somalia,2009,36,179
+Somalia,2010,26,180
+Somalia,2011,34,181
+Somalia,2012,30,182
+Somalia,2013,15,183
+Somalia,2014,32,184
+Somalia,2015,35,185
+Somalia,2016,50,186
+Somalia,2017,67,187
+Somalia,2018,76,188
+Somalia,2019,68,189
+Somalia,2020,97,190
+Somalia,2021,92,191
+Somalia,2022,120,192
+South Sudan,1999,0,193
+South Sudan,2000,0,194
+South Sudan,2001,0,195
+South Sudan,2002,0,196
+South Sudan,2003,0,197
+South Sudan,2004,0,198
+South Sudan,2005,0,199
+South Sudan,2006,0,200
+South Sudan,2007,0,201
+South Sudan,2008,0,202
+South Sudan,2009,0,203
+South Sudan,2010,0,204
+South Sudan,2011,0,205
+South Sudan,2012,8,206
+South Sudan,2013,18,207
+South Sudan,2014,28,208
+South Sudan,2015,36,209
+South Sudan,2016,48,210
+South Sudan,2017,76,211
+South Sudan,2018,63,212
+South Sudan,2019,102,213
+South Sudan,2020,95,214
+South Sudan,2021,100,215
+South Sudan,2022,87,216
+Sudan,1999,354,217
+Sudan,2000,366,218
+Sudan,2001,378,219
+Sudan,2002,431,220
+Sudan,2003,279,221
+Sudan,2004,290,222
+Sudan,2005,309,223
+Sudan,2006,321,224
+Sudan,2007,224,225
+Sudan,2008,217,226
+Sudan,2009,213,227
+Sudan,2010,236,228
+Sudan,2011,180,229
+Sudan,2012,187,230
+Sudan,2013,186,231
+Sudan,2014,233,232
+Sudan,2015,253,233
+Sudan,2016,324,234
+Sudan,2017,331,235
+Sudan,2018,319,236
+Sudan,2019,318,237
+Sudan,2020,324,238
+Sudan,2021,360,239
+Sudan,2022,381,240
+Tanzania,1999,1091,241
+Tanzania,2000,1528,242
+Tanzania,2001,1814,243
+Tanzania,2002,1822,244
+Tanzania,2003,1471,245
+Tanzania,2004,1332,246
+Tanzania,2005,1239,247
+Tanzania,2006,1196,248
+Tanzania,2007,1192,249
+Tanzania,2008,1217,250
+Tanzania,2009,1098,251
+Tanzania,2010,1006,252
+Tanzania,2011,906,253
+Tanzania,2012,950,254
+Tanzania,2013,889,255
+Tanzania,2014,867,256
+Tanzania,2015,840,257
+Tanzania,2016,811,258
+Tanzania,2017,824,259
+Tanzania,2018,834,260
+Tanzania,2019,859,261
+Tanzania,2020,699,262
+Tanzania,2021,749,263
+Tanzania,2022,904,264
+Uganda,1999,693,265
+Uganda,2000,754,266
+Uganda,2001,805,267
+Uganda,2002,776,268
+Uganda,2003,696,269
+Uganda,2004,632,270
+Uganda,2005,685,271
+Uganda,2006,743,272
+Uganda,2007,769,273
+Uganda,2008,836,274
+Uganda,2009,852,275
+Uganda,2010,820,276
+Uganda,2011,779,277
+Uganda,2012,783,278
+Uganda,2013,762,279
+Uganda,2014,762,280
+Uganda,2015,776,281
+Uganda,2016,779,282
+Uganda,2017,818,283
+Uganda,2018,848,284
+Uganda,2019,870,285
+Uganda,2020,886,286
+Uganda,2021,905,287
+Uganda,2022,1088,288
+Cameroon,1999,903,289
+Cameroon,2000,870,290
+Cameroon,2001,967,291
+Cameroon,2002,1171,292
+Cameroon,2003,1216,293
+Cameroon,2004,1364,294
+Cameroon,2005,1582,295
+Cameroon,2006,1799,296
+Cameroon,2007,1891,297
+Cameroon,2008,1826,298
+Cameroon,2009,1881,299
+Cameroon,2010,1659,300
+Cameroon,2011,1530,301
+Cameroon,2012,1472,302
+Cameroon,2013,1285,303
+Cameroon,2014,1212,304
+Cameroon,2015,1210,305
+Cameroon,2016,1334,306
+Cameroon,2017,1382,307
+Cameroon,2018,1188,308
+Cameroon,2019,1027,309
+Cameroon,2020,930,310
+Cameroon,2021,927,311
+Cameroon,2022,1086,312
+Central African Republic,1999,20,313
+Central African Republic,2000,18,314
+Central African Republic,2001,12,315
+Central African Republic,2002,23,316
+Central African Republic,2003,40,317
+Central African Republic,2004,32,318
+Central African Republic,2005,34,319
+Central African Republic,2006,47,320
+Central African Republic,2007,47,321
+Central African Republic,2008,42,322
+Central African Republic,2009,32,323
+Central African Republic,2010,29,324
+Central African Republic,2011,28,325
+Central African Republic,2012,28,326
+Central African Republic,2013,11,327
+Central African Republic,2014,13,328
+Central African Republic,2015,13,329
+Central African Republic,2016,15,330
+Central African Republic,2017,14,331
+Central African Republic,2018,17,332
+Central African Republic,2019,12,333
+Central African Republic,2020,13,334
+Central African Republic,2021,11,335
+Central African Republic,2022,11,336
+Chad,1999,42,337
+Chad,2000,51,338
+Chad,2001,60,339
+Chad,2002,90,340
+Chad,2003,95,341
+Chad,2004,75,342
+Chad,2005,73,343
+Chad,2006,120,344
+Chad,2007,127,345
+Chad,2008,138,346
+Chad,2009,96,347
+Chad,2010,99,348
+Chad,2011,84,349
+Chad,2012,89,350
+Chad,2013,81,351
+Chad,2014,61,352
+Chad,2015,52,353
+Chad,2016,66,354
+Chad,2017,75,355
+Chad,2018,65,356
+Chad,2019,51,357
+Chad,2020,52,358
+Chad,2021,61,359
+Chad,2022,67,360
+Equatorial Guinea,1999,22,361
+Equatorial Guinea,2000,44,362
+Equatorial Guinea,2001,35,363
+Equatorial Guinea,2002,94,364
+Equatorial Guinea,2003,79,365
+Equatorial Guinea,2004,104,366
+Equatorial Guinea,2005,160,367
+Equatorial Guinea,2006,196,368
+Equatorial Guinea,2007,98,369
+Equatorial Guinea,2008,94,370
+Equatorial Guinea,2009,78,371
+Equatorial Guinea,2010,119,372
+Equatorial Guinea,2011,164,373
+Equatorial Guinea,2012,196,374
+Equatorial Guinea,2013,253,375
+Equatorial Guinea,2014,314,376
+Equatorial Guinea,2015,339,377
+Equatorial Guinea,2016,360,378
+Equatorial Guinea,2017,335,379
+Equatorial Guinea,2018,280,380
+Equatorial Guinea,2019,247,381
+Equatorial Guinea,2020,226,382
+Equatorial Guinea,2021,186,383
+Equatorial Guinea,2022,234,384
+Gabon,1999,74,385
+Gabon,2000,98,386
+Gabon,2001,101,387
+Gabon,2002,125,388
+Gabon,2003,105,389
+Gabon,2004,145,390
+Gabon,2005,161,391
+Gabon,2006,230,392
+Gabon,2007,303,393
+Gabon,2008,262,394
+Gabon,2009,306,395
+Gabon,2010,431,396
+Gabon,2011,402,397
+Gabon,2012,378,398
+Gabon,2013,397,399
+Gabon,2014,388,400
+Gabon,2015,410,401
+Gabon,2016,363,402
+Gabon,2017,332,403
+Gabon,2018,327,404
+Gabon,2019,280,405
+Gabon,2020,272,406
+Gabon,2021,229,407
+Gabon,2022,236,408
+Angola,1999,198,409
+Angola,2000,348,410
+Angola,2001,360,411
+Angola,2002,432,412
+Angola,2003,442,413
+Angola,2004,431,414
+Angola,2005,415,415
+Angola,2006,442,416
+Angola,2007,503,417
+Angola,2008,544,418
+Angola,2009,615,419
+Angola,2010,699,420
+Angola,2011,779,421
+Angola,2012,812,422
+Angola,2013,985,423
+Angola,2014,1184,424
+Angola,2015,1296,425
+Angola,2016,1257,426
+Angola,2017,1183,427
+Angola,2018,1014,428
+Angola,2019,814,429
+Angola,2020,673,430
+Angola,2021,541,431
+Angola,2022,553,432
+Botswana,1999,1053,433
+Botswana,2000,941,434
+Botswana,2001,1004,435
+Botswana,2002,688,436
+Botswana,2003,488,437
+Botswana,2004,338,438
+Botswana,2005,284,439
+Botswana,2006,227,440
+Botswana,2007,236,441
+Botswana,2008,298,442
+Botswana,2009,212,443
+Botswana,2010,229,444
+Botswana,2011,175,445
+Botswana,2012,216,446
+Botswana,2013,228,447
+Botswana,2014,257,448
+Botswana,2015,246,449
+Botswana,2016,296,450
+Botswana,2017,233,451
+Botswana,2018,214,452
+Botswana,2019,246,453
+Botswana,2020,218,454
+Botswana,2021,231,455
+Botswana,2022,256,456
+Comoros,1999,22,457
+Comoros,2000,38,458
+Comoros,2001,44,459
+Comoros,2002,31,460
+Comoros,2003,22,461
+Comoros,2004,23,462
+Comoros,2005,29,463
+Comoros,2006,39,464
+Comoros,2007,42,465
+Comoros,2008,23,466
+Comoros,2009,50,467
+Comoros,2010,23,468
+Comoros,2011,9,469
+Comoros,2012,19,470
+Comoros,2013,27,471
+Comoros,2014,32,472
+Comoros,2015,32,473
+Comoros,2016,10,474
+Comoros,2017,12,475
+Comoros,2018,18,476
+Comoros,2019,40,477
+Comoros,2020,23,478
+Comoros,2021,21,479
+Comoros,2022,23,480
+Eswatini,1999,71,481
+Eswatini,2000,104,482
+Eswatini,2001,88,483
+Eswatini,2002,84,484
+Eswatini,2003,86,485
+Eswatini,2004,96,486
+Eswatini,2005,98,487
+Eswatini,2006,114,488
+Eswatini,2007,128,489
+Eswatini,2008,156,490
+Eswatini,2009,140,491
+Eswatini,2010,146,492
+Eswatini,2011,154,493
+Eswatini,2012,182,494
+Eswatini,2013,177,495
+Eswatini,2014,165,496
+Eswatini,2015,192,497
+Eswatini,2016,183,498
+Eswatini,2017,188,499
+Eswatini,2018,181,500
+Eswatini,2019,174,501
+Eswatini,2020,181,502
+Eswatini,2021,169,503
+Eswatini,2022,181,504
+Lesotho,1999,63,505
+Lesotho,2000,35,506
+Lesotho,2001,39,507
+Lesotho,2002,38,508
+Lesotho,2003,39,509
+Lesotho,2004,41,510
+Lesotho,2005,52,511
+Lesotho,2006,57,512
+Lesotho,2007,45,513
+Lesotho,2008,61,514
+Lesotho,2009,48,515
+Lesotho,2010,51,516
+Lesotho,2011,46,517
+Lesotho,2012,41,518
+Lesotho,2013,41,519
+Lesotho,2014,56,520
+Lesotho,2015,61,521
+Lesotho,2016,59,522
+Lesotho,2017,55,523
+Lesotho,2018,58,524
+Lesotho,2019,69,525
+Lesotho,2020,69,526
+Lesotho,2021,70,527
+Lesotho,2022,70,528
+Madagascar,1999,114,529
+Madagascar,2000,115,530
+Madagascar,2001,124,531
+Madagascar,2002,119,532
+Madagascar,2003,109,533
+Madagascar,2004,127,534
+Madagascar,2005,112,535
+Madagascar,2006,136,536
+Madagascar,2007,130,537
+Madagascar,2008,123,538
+Madagascar,2009,142,539
+Madagascar,2010,146,540
+Madagascar,2011,133,541
+Madagascar,2012,124,542
+Madagascar,2013,151,543
+Madagascar,2014,122,544
+Madagascar,2015,126,545
+Madagascar,2016,143,546
+Madagascar,2017,132,547
+Madagascar,2018,159,548
+Madagascar,2019,181,549
+Madagascar,2020,181,550
+Madagascar,2021,209,551
+Madagascar,2022,226,552
+Malawi,1999,308,553
+Malawi,2000,428,554
+Malawi,2001,475,555
+Malawi,2002,391,556
+Malawi,2003,399,557
+Malawi,2004,375,558
+Malawi,2005,347,559
+Malawi,2006,321,560
+Malawi,2007,297,561
+Malawi,2008,315,562
+Malawi,2009,274,563
+Malawi,2010,269,564
+Malawi,2011,258,565
+Malawi,2012,252,566
+Malawi,2013,275,567
+Malawi,2014,272,568
+Malawi,2015,289,569
+Malawi,2016,317,570
+Malawi,2017,306,571
+Malawi,2018,311,572
+Malawi,2019,315,573
+Malawi,2020,287,574
+Malawi,2021,342,575
+Malawi,2022,373,576
+Mauritius,1999,209,577
+Mauritius,2000,246,578
+Mauritius,2001,251,579
+Mauritius,2002,228,580
+Mauritius,2003,209,581
+Mauritius,2004,188,582
+Mauritius,2005,210,583
+Mauritius,2006,205,584
+Mauritius,2007,218,585
+Mauritius,2008,221,586
+Mauritius,2009,210,587
+Mauritius,2010,247,588
+Mauritius,2011,205,589
+Mauritius,2012,228,590
+Mauritius,2013,221,591
+Mauritius,2014,231,592
+Mauritius,2015,250,593
+Mauritius,2016,283,594
+Mauritius,2017,288,595
+Mauritius,2018,311,596
+Mauritius,2019,332,597
+Mauritius,2020,323,598
+Mauritius,2021,281,599
+Mauritius,2022,292,600
+Mozambique,1999,82,601
+Mozambique,2000,86,602
+Mozambique,2001,106,603
+Mozambique,2002,108,604
+Mozambique,2003,93,605
+Mozambique,2004,106,606
+Mozambique,2005,98,607
+Mozambique,2006,80,608
+Mozambique,2007,78,609
+Mozambique,2008,89,610
+Mozambique,2009,88,611
+Mozambique,2010,76,612
+Mozambique,2011,67,613
+Mozambique,2012,88,614
+Mozambique,2013,91,615
+Mozambique,2014,108,616
+Mozambique,2015,109,617
+Mozambique,2016,120,618
+Mozambique,2017,111,619
+Mozambique,2018,113,620
+Mozambique,2019,127,621
+Mozambique,2020,131,622
+Mozambique,2021,145,623
+Mozambique,2022,147,624
+Namibia,1999,99,625
+Namibia,2000,117,626
+Namibia,2001,80,627
+Namibia,2002,111,628
+Namibia,2003,95,629
+Namibia,2004,66,630
+Namibia,2005,89,631
+Namibia,2006,61,632
+Namibia,2007,66,633
+Namibia,2008,60,634
+Namibia,2009,76,635
+Namibia,2010,73,636
+Namibia,2011,63,637
+Namibia,2012,65,638
+Namibia,2013,61,639
+Namibia,2014,67,640
+Namibia,2015,76,641
+Namibia,2016,93,642
+Namibia,2017,101,643
+Namibia,2018,105,644
+Namibia,2019,121,645
+Namibia,2020,122,646
+Namibia,2021,107,647
+Namibia,2022,94,648
+Reunion,1999,3,649
+Reunion,2000,2,650
+Reunion,2001,20,651
+Reunion,2002,4,652
+Reunion,2003,2,653
+Reunion,2004,8,654
+Reunion,2005,11,655
+Reunion,2006,6,656
+Reunion,2007,6,657
+Reunion,2008,8,658
+Reunion,2009,2,659
+Reunion,2010,7,660
+Reunion,2011,1,661
+Reunion,2012,2,662
+Reunion,2013,2,663
+Reunion,2014,1,664
+Reunion,2015,5,665
+Reunion,2016,2,666
+Reunion,2017,6,667
+Reunion,2018,1,668
+Reunion,2019,2,669
+Reunion,2020,4,670
+Reunion,2021,6,671
+Reunion,2022,10,672
+South Africa,1999,1962,673
+South Africa,2000,2106,674
+South Africa,2001,2232,675
+South Africa,2002,2095,676
+South Africa,2003,1971,677
+South Africa,2004,1699,678
+South Africa,2005,1709,679
+South Africa,2006,1665,680
+South Africa,2007,1620,681
+South Africa,2008,1703,682
+South Africa,2009,1656,683
+South Africa,2010,1669,684
+South Africa,2011,1610,685
+South Africa,2012,1816,686
+South Africa,2013,1716,687
+South Africa,2014,1838,688
+South Africa,2015,1813,689
+South Africa,2016,1911,690
+South Africa,2017,2040,691
+South Africa,2018,2042,692
+South Africa,2019,2224,693
+South Africa,2020,2079,694
+South Africa,2021,2375,695
+South Africa,2022,2713,696
+Zambia,1999,494,697
+Zambia,2000,613,698
+Zambia,2001,819,699
+Zambia,2002,882,700
+Zambia,2003,859,701
+Zambia,2004,794,702
+Zambia,2005,816,703
+Zambia,2006,876,704
+Zambia,2007,787,705
+Zambia,2008,743,706
+Zambia,2009,641,707
+Zambia,2010,560,708
+Zambia,2011,535,709
+Zambia,2012,496,710
+Zambia,2013,502,711
+Zambia,2014,465,712
+Zambia,2015,473,713
+Zambia,2016,469,714
+Zambia,2017,450,715
+Zambia,2018,445,716
+Zambia,2019,464,717
+Zambia,2020,440,718
+Zambia,2021,512,719
+Zambia,2022,555,720
+Zimbabwe,1999,1184,721
+Zimbabwe,2000,1703,722
+Zimbabwe,2001,2029,723
+Zimbabwe,2002,2186,724
+Zimbabwe,2003,1999,725
+Zimbabwe,2004,1695,726
+Zimbabwe,2005,1704,727
+Zimbabwe,2006,1518,728
+Zimbabwe,2007,1421,729
+Zimbabwe,2008,1269,730
+Zimbabwe,2009,1159,731
+Zimbabwe,2010,1135,732
+Zimbabwe,2011,1161,733
+Zimbabwe,2012,1170,734
+Zimbabwe,2013,1206,735
+Zimbabwe,2014,1245,736
+Zimbabwe,2015,1295,737
+Zimbabwe,2016,1330,738
+Zimbabwe,2017,1324,739
+Zimbabwe,2018,1343,740
+Zimbabwe,2019,1377,741
+Zimbabwe,2020,1304,742
+Zimbabwe,2021,1507,743
+Zimbabwe,2022,1789,744
+Benin,1999,130,745
+Benin,2000,145,746
+Benin,2001,153,747
+Benin,2002,171,748
+Benin,2003,168,749
+Benin,2004,180,750
+Benin,2005,217,751
+Benin,2006,253,752
+Benin,2007,319,753
+Benin,2008,328,754
+Benin,2009,342,755
+Benin,2010,289,756
+Benin,2011,313,757
+Benin,2012,318,758
+Benin,2013,291,759
+Benin,2014,287,760
+Benin,2015,259,761
+Benin,2016,248,762
+Benin,2017,234,763
+Benin,2018,246,764
+Benin,2019,234,765
+Benin,2020,210,766
+Benin,2021,201,767
+Benin,2022,246,768
+Burkina Faso,1999,74,769
+Burkina Faso,2000,112,770
+Burkina Faso,2001,135,771
+Burkina Faso,2002,162,772
+Burkina Faso,2003,191,773
+Burkina Faso,2004,277,774
+Burkina Faso,2005,339,775
+Burkina Faso,2006,423,776
+Burkina Faso,2007,514,777
+Burkina Faso,2008,568,778
+Burkina Faso,2009,680,779
+Burkina Faso,2010,626,780
+Burkina Faso,2011,631,781
+Burkina Faso,2012,627,782
+Burkina Faso,2013,526,783
+Burkina Faso,2014,567,784
+Burkina Faso,2015,540,785
+Burkina Faso,2016,533,786
+Burkina Faso,2017,567,787
+Burkina Faso,2018,514,788
+Burkina Faso,2019,483,789
+Burkina Faso,2020,420,790
+Burkina Faso,2021,367,791
+Burkina Faso,2022,372,792
+Cabo Verde,1999,44,793
+Cabo Verde,2000,59,794
+Cabo Verde,2001,57,795
+Cabo Verde,2002,79,796
+Cabo Verde,2003,52,797
+Cabo Verde,2004,40,798
+Cabo Verde,2005,40,799
+Cabo Verde,2006,76,800
+Cabo Verde,2007,43,801
+Cabo Verde,2008,100,802
+Cabo Verde,2009,42,803
+Cabo Verde,2010,55,804
+Cabo Verde,2011,87,805
+Cabo Verde,2012,81,806
+Cabo Verde,2013,69,807
+Cabo Verde,2014,64,808
+Cabo Verde,2015,102,809
+Cabo Verde,2016,80,810
+Cabo Verde,2017,67,811
+Cabo Verde,2018,52,812
+Cabo Verde,2019,61,813
+Cabo Verde,2020,63,814
+Cabo Verde,2021,44,815
+Cabo Verde,2022,47,816
+Côte d’Ivoire,1999,563,817
+Côte d’Ivoire,2000,637,818
+Côte d’Ivoire,2001,707,819
+Côte d’Ivoire,2002,675,820
+Côte d’Ivoire,2003,636,821
+Côte d’Ivoire,2004,622,822
+Côte d’Ivoire,2005,656,823
+Côte d’Ivoire,2006,657,824
+Côte d’Ivoire,2007,711,825
+Côte d’Ivoire,2008,806,826
+Côte d’Ivoire,2009,867,827
+Côte d’Ivoire,2010,904,828
+Côte d’Ivoire,2011,955,829
+Côte d’Ivoire,2012,980,830
+Côte d’Ivoire,2013,1116,831
+Côte d’Ivoire,2014,1227,832
+Côte d’Ivoire,2015,1229,833
+Côte d’Ivoire,2016,1353,834
+Côte d’Ivoire,2017,1349,835
+Côte d’Ivoire,2018,1392,836
+Côte d’Ivoire,2019,1257,837
+Côte d’Ivoire,2020,1115,838
+Côte d’Ivoire,2021,1034,839
+Côte d’Ivoire,2022,1072,840
+Gambia,1999,263,841
+Gambia,2000,386,842
+Gambia,2001,401,843
+Gambia,2002,464,844
+Gambia,2003,523,845
+Gambia,2004,445,846
+Gambia,2005,403,847
+Gambia,2006,372,848
+Gambia,2007,330,849
+Gambia,2008,328,850
+Gambia,2009,299,851
+Gambia,2010,385,852
+Gambia,2011,383,853
+Gambia,2012,328,854
+Gambia,2013,300,855
+Gambia,2014,275,856
+Gambia,2015,274,857
+Gambia,2016,299,858
+Gambia,2017,261,859
+Gambia,2018,243,860
+Gambia,2019,239,861
+Gambia,2020,219,862
+Gambia,2021,231,863
+Gambia,2022,286,864
+Ghana,1999,2127,865
+Ghana,2000,2469,866
+Ghana,2001,2672,867
+Ghana,2002,3032,868
+Ghana,2003,3288,869
+Ghana,2004,3114,870
+Ghana,2005,3160,871
+Ghana,2006,2961,872
+Ghana,2007,2895,873
+Ghana,2008,2988,874
+Ghana,2009,2951,875
+Ghana,2010,2900,876
+Ghana,2011,2769,877
+Ghana,2012,2863,878
+Ghana,2013,2914,879
+Ghana,2014,3099,880
+Ghana,2015,3049,881
+Ghana,2016,3111,882
+Ghana,2017,3213,883
+Ghana,2018,3661,884
+Ghana,2019,4221,885
+Ghana,2020,4229,886
+Ghana,2021,4916,887
+Ghana,2022,6468,888
+Guinea,1999,235,889
+Guinea,2000,237,890
+Guinea,2001,220,891
+Guinea,2002,249,892
+Guinea,2003,250,893
+Guinea,2004,225,894
+Guinea,2005,218,895
+Guinea,2006,181,896
+Guinea,2007,167,897
+Guinea,2008,190,898
+Guinea,2009,180,899
+Guinea,2010,139,900
+Guinea,2011,104,901
+Guinea,2012,79,902
+Guinea,2013,80,903
+Guinea,2014,109,904
+Guinea,2015,94,905
+Guinea,2016,94,906
+Guinea,2017,98,907
+Guinea,2018,107,908
+Guinea,2019,92,909
+Guinea,2020,104,910
+Guinea,2021,76,911
+Guinea,2022,96,912
+Guinea-Bissau,1999,29,913
+Guinea-Bissau,2000,16,914
+Guinea-Bissau,2001,21,915
+Guinea-Bissau,2002,13,916
+Guinea-Bissau,2003,16,917
+Guinea-Bissau,2004,11,918
+Guinea-Bissau,2005,5,919
+Guinea-Bissau,2006,19,920
+Guinea-Bissau,2007,15,921
+Guinea-Bissau,2008,17,922
+Guinea-Bissau,2009,15,923
+Guinea-Bissau,2010,12,924
+Guinea-Bissau,2011,12,925
+Guinea-Bissau,2012,10,926
+Guinea-Bissau,2013,15,927
+Guinea-Bissau,2014,9,928
+Guinea-Bissau,2015,18,929
+Guinea-Bissau,2016,9,930
+Guinea-Bissau,2017,10,931
+Guinea-Bissau,2018,16,932
+Guinea-Bissau,2019,13,933
+Guinea-Bissau,2020,9,934
+Guinea-Bissau,2021,8,935
+Guinea-Bissau,2022,12,936
+Liberia,1999,426,937
+Liberia,2000,451,938
+Liberia,2001,471,939
+Liberia,2002,531,940
+Liberia,2003,411,941
+Liberia,2004,343,942
+Liberia,2005,364,943
+Liberia,2006,336,944
+Liberia,2007,298,945
+Liberia,2008,261,946
+Liberia,2009,231,947
+Liberia,2010,172,948
+Liberia,2011,159,949
+Liberia,2012,172,950
+Liberia,2013,161,951
+Liberia,2014,168,952
+Liberia,2015,205,953
+Liberia,2016,221,954
+Liberia,2017,262,955
+Liberia,2018,255,956
+Liberia,2019,260,957
+Liberia,2020,232,958
+Liberia,2021,269,959
+Liberia,2022,276,960
+Mali,1999,207,961
+Mali,2000,439,962
+Mali,2001,311,963
+Mali,2002,507,964
+Mali,2003,378,965
+Mali,2004,345,966
+Mali,2005,402,967
+Mali,2006,455,968
+Mali,2007,435,969
+Mali,2008,479,970
+Mali,2009,500,971
+Mali,2010,481,972
+Mali,2011,402,973
+Mali,2012,383,974
+Mali,2013,315,975
+Mali,2014,356,976
+Mali,2015,331,977
+Mali,2016,310,978
+Mali,2017,302,979
+Mali,2018,291,980
+Mali,2019,285,981
+Mali,2020,270,982
+Mali,2021,254,983
+Mali,2022,254,984
+Mauritania,1999,62,985
+Mauritania,2000,73,986
+Mauritania,2001,79,987
+Mauritania,2002,87,988
+Mauritania,2003,68,989
+Mauritania,2004,58,990
+Mauritania,2005,63,991
+Mauritania,2006,64,992
+Mauritania,2007,60,993
+Mauritania,2008,59,994
+Mauritania,2009,52,995
+Mauritania,2010,60,996
+Mauritania,2011,61,997
+Mauritania,2012,71,998
+Mauritania,2013,63,999
+Mauritania,2014,81,1000
+Mauritania,2015,97,1001
+Mauritania,2016,103,1002
+Mauritania,2017,106,1003
+Mauritania,2018,84,1004
+Mauritania,2019,67,1005
+Mauritania,2020,53,1006
+Mauritania,2021,53,1007
+Mauritania,2022,41,1008
+Niger,1999,73,1009
+Niger,2000,87,1010
+Niger,2001,139,1011
+Niger,2002,177,1012
+Niger,2003,169,1013
+Niger,2004,234,1014
+Niger,2005,359,1015
+Niger,2006,258,1016
+Niger,2007,289,1017
+Niger,2008,249,1018
+Niger,2009,228,1019
+Niger,2010,247,1020
+Niger,2011,279,1021
+Niger,2012,194,1022
+Niger,2013,217,1023
+Niger,2014,199,1024
+Niger,2015,246,1025
+Niger,2016,177,1026
+Niger,2017,288,1027
+Niger,2018,257,1028
+Niger,2019,277,1029
+Niger,2020,197,1030
+Niger,2021,246,1031
+Niger,2022,332,1032
+Nigeria,1999,3602,1033
+Nigeria,2000,3820,1034
+Nigeria,2001,4499,1035
+Nigeria,2002,5816,1036
+Nigeria,2003,6140,1037
+Nigeria,2004,6335,1038
+Nigeria,2005,6192,1039
+Nigeria,2006,5943,1040
+Nigeria,2007,6222,1041
+Nigeria,2008,6256,1042
+Nigeria,2009,6568,1043
+Nigeria,2010,7148,1044
+Nigeria,2011,7028,1045
+Nigeria,2012,7316,1046
+Nigeria,2013,7921,1047
+Nigeria,2014,9494,1048
+Nigeria,2015,10674,1049
+Nigeria,2016,11710,1050
+Nigeria,2017,12693,1051
+Nigeria,2018,13423,1052
+Nigeria,2019,13762,1053
+Nigeria,2020,12860,1054
+Nigeria,2021,14438,1055
+Nigeria,2022,17640,1056
+Senegal,1999,707,1057
+Senegal,2000,732,1058
+Senegal,2001,809,1059
+Senegal,2002,774,1060
+Senegal,2003,805,1061
+Senegal,2004,725,1062
+Senegal,2005,666,1063
+Senegal,2006,681,1064
+Senegal,2007,658,1065
+Senegal,2008,642,1066
+Senegal,2009,624,1067
+Senegal,2010,600,1068
+Senegal,2011,681,1069
+Senegal,2012,688,1070
+Senegal,2013,633,1071
+Senegal,2014,633,1072
+Senegal,2015,603,1073
+Senegal,2016,569,1074
+Senegal,2017,544,1075
+Senegal,2018,504,1076
+Senegal,2019,485,1077
+Senegal,2020,430,1078
+Senegal,2021,445,1079
+Senegal,2022,490,1080
+Sierra Leone,1999,452,1081
+Sierra Leone,2000,336,1082
+Sierra Leone,2001,320,1083
+Sierra Leone,2002,340,1084
+Sierra Leone,2003,306,1085
+Sierra Leone,2004,308,1086
+Sierra Leone,2005,297,1087
+Sierra Leone,2006,299,1088
+Sierra Leone,2007,230,1089
+Sierra Leone,2008,173,1090
+Sierra Leone,2009,173,1091
+Sierra Leone,2010,183,1092
+Sierra Leone,2011,130,1093
+Sierra Leone,2012,123,1094
+Sierra Leone,2013,146,1095
+Sierra Leone,2014,152,1096
+Sierra Leone,2015,167,1097
+Sierra Leone,2016,209,1098
+Sierra Leone,2017,200,1099
+Sierra Leone,2018,181,1100
+Sierra Leone,2019,199,1101
+Sierra Leone,2020,201,1102
+Sierra Leone,2021,197,1103
+Sierra Leone,2022,280,1104
+Togo,1999,176,1105
+Togo,2000,330,1106
+Togo,2001,382,1107
+Togo,2002,498,1108
+Togo,2003,413,1109
+Togo,2004,514,1110
+Togo,2005,448,1111
+Togo,2006,366,1112
+Togo,2007,439,1113
+Togo,2008,381,1114
+Togo,2009,310,1115
+Togo,2010,241,1116
+Togo,2011,250,1117
+Togo,2012,218,1118
+Togo,2013,231,1119
+Togo,2014,238,1120
+Togo,2015,209,1121
+Togo,2016,210,1122
+Togo,2017,199,1123
+Togo,2018,189,1124
+Togo,2019,214,1125
+Togo,2020,196,1126
+Togo,2021,193,1127
+Togo,2022,198,1128
+China,1999,54466,1129
+China,2000,59939,1130
+China,2001,63211,1131
+China,2002,64757,1132
+China,2003,61765,1133
+China,2004,62523,1134
+China,2005,62582,1135
+China,2006,67723,1136
+China,2007,81127,1137
+China,2008,98235,1138
+China,2009,127628,1139
+China,2010,157558,1140
+China,2011,194029,1141
+China,2012,235597,1142
+China,2013,274439,1143
+China,2014,304040,1144
+China,2015,328547,1145
+China,2016,350755,1146
+China,2017,363341,1147
+China,2018,369548,1148
+China,2019,372532,1149
+China,2020,317299,1150
+China,2021,290086,1151
+China,2022,289526,1152
+Hong Kong,1999,7545,1153
+Hong Kong,2000,7627,1154
+Hong Kong,2001,7757,1155
+Hong Kong,2002,8076,1156
+Hong Kong,2003,7353,1157
+Hong Kong,2004,7180,1158
+Hong Kong,2005,7849,1159
+Hong Kong,2006,7722,1160
+Hong Kong,2007,8286,1161
+Hong Kong,2008,8329,1162
+Hong Kong,2009,8034,1163
+Hong Kong,2010,8136,1164
+Hong Kong,2011,8032,1165
+Hong Kong,2012,8026,1166
+Hong Kong,2013,8104,1167
+Hong Kong,2014,8012,1168
+Hong Kong,2015,7923,1169
+Hong Kong,2016,7547,1170
+Hong Kong,2017,7162,1171
+Hong Kong,2018,6917,1172
+Hong Kong,2019,6778,1173
+Hong Kong,2020,5878,1174
+Hong Kong,2021,5848,1175
+Hong Kong,2022,5867,1176
+Japan,1999,46872,1177
+Japan,2000,46497,1178
+Japan,2001,46810,1179
+Japan,2002,45960,1180
+Japan,2003,40835,1181
+Japan,2004,42215,1182
+Japan,2005,38712,1183
+Japan,2006,35282,1184
+Japan,2007,33974,1185
+Japan,2008,29264,1186
+Japan,2009,24842,1187
+Japan,2010,21290,1188
+Japan,2011,19966,1189
+Japan,2012,19568,1190
+Japan,2013,19334,1191
+Japan,2014,19064,1192
+Japan,2015,19060,1193
+Japan,2016,18780,1194
+Japan,2017,18753,1195
+Japan,2018,18105,1196
+Japan,2019,17554,1197
+Japan,2020,11785,1198
+Japan,2021,13449,1199
+Japan,2022,16054,1200
+Macau,1999,297,1201
+Macau,2000,372,1202
+Macau,2001,371,1203
+Macau,2002,385,1204
+Macau,2003,374,1205
+Macau,2004,383,1206
+Macau,2005,407,1207
+Macau,2006,388,1208
+Macau,2007,421,1209
+Macau,2008,429,1210
+Macau,2009,468,1211
+Macau,2010,497,1212
+Macau,2011,505,1213
+Macau,2012,533,1214
+Macau,2013,552,1215
+Macau,2014,573,1216
+Macau,2015,586,1217
+Macau,2016,605,1218
+Macau,2017,555,1219
+Macau,2018,558,1220
+Macau,2019,503,1221
+Macau,2020,422,1222
+Macau,2021,394,1223
+Macau,2022,360,1224
+Mongolia,1999,325,1225
+Mongolia,2000,442,1226
+Mongolia,2001,574,1227
+Mongolia,2002,739,1228
+Mongolia,2003,711,1229
+Mongolia,2004,769,1230
+Mongolia,2005,927,1231
+Mongolia,2006,1156,1232
+Mongolia,2007,1308,1233
+Mongolia,2008,1522,1234
+Mongolia,2009,1258,1235
+Mongolia,2010,1259,1236
+Mongolia,2011,1423,1237
+Mongolia,2012,1361,1238
+Mongolia,2013,1444,1239
+Mongolia,2014,1481,1240
+Mongolia,2015,1434,1241
+Mongolia,2016,1410,1242
+Mongolia,2017,1481,1243
+Mongolia,2018,1336,1244
+Mongolia,2019,1438,1245
+Mongolia,2020,1258,1246
+Mongolia,2021,1355,1247
+Mongolia,2022,1488,1248
+North Korea,1999,201,1249
+North Korea,2000,127,1250
+North Korea,2001,113,1251
+North Korea,2002,213,1252
+North Korea,2003,174,1253
+North Korea,2004,219,1254
+North Korea,2005,201,1255
+North Korea,2006,266,1256
+North Korea,2007,65,1257
+North Korea,2008,43,1258
+North Korea,2009,57,1259
+North Korea,2010,16,1260
+North Korea,2011,15,1261
+North Korea,2012,17,1262
+North Korea,2013,19,1263
+North Korea,2014,8,1264
+North Korea,2015,18,1265
+North Korea,2016,8,1266
+North Korea,2017,3,1267
+North Korea,2018,2,1268
+North Korea,2019,1,1269
+North Korea,2020,2,1270
+North Korea,2021,4,1271
+North Korea,2022,3,1272
+South Korea,1999,41191,1273
+South Korea,2000,45685,1274
+South Korea,2001,49046,1275
+South Korea,2002,51519,1276
+South Korea,2003,52484,1277
+South Korea,2004,53358,1278
+South Korea,2005,59022,1279
+South Korea,2006,62392,1280
+South Korea,2007,69124,1281
+South Korea,2008,75065,1282
+South Korea,2009,72153,1283
+South Korea,2010,73351,1284
+South Korea,2011,72295,1285
+South Korea,2012,70627,1286
+South Korea,2013,68047,1287
+South Korea,2014,63710,1288
+South Korea,2015,61007,1289
+South Korea,2016,58663,1290
+South Korea,2017,54555,1291
+South Korea,2018,52250,1292
+South Korea,2019,49809,1293
+South Korea,2020,39491,1294
+South Korea,2021,40755,1295
+South Korea,2022,43847,1296
+Taiwan,1999,29234,1297
+Taiwan,2000,28566,1298
+Taiwan,2001,28930,1299
+Taiwan,2002,28017,1300
+Taiwan,2003,26178,1301
+Taiwan,2004,25914,1302
+Taiwan,2005,27876,1303
+Taiwan,2006,29094,1304
+Taiwan,2007,29001,1305
+Taiwan,2008,28065,1306
+Taiwan,2009,26685,1307
+Taiwan,2010,24818,1308
+Taiwan,2011,23250,1309
+Taiwan,2012,21867,1310
+Taiwan,2013,21266,1311
+Taiwan,2014,20993,1312
+Taiwan,2015,21127,1313
+Taiwan,2016,21516,1314
+Taiwan,2017,22454,1315
+Taiwan,2018,23369,1316
+Taiwan,2019,23724,1317
+Taiwan,2020,19673,1318
+Taiwan,2021,20487,1319
+Taiwan,2022,21834,1320
+Afghanistan,1999,110,1321
+Afghanistan,2000,75,1322
+Afghanistan,2001,92,1323
+Afghanistan,2002,102,1324
+Afghanistan,2003,109,1325
+Afghanistan,2004,155,1326
+Afghanistan,2005,175,1327
+Afghanistan,2006,268,1328
+Afghanistan,2007,338,1329
+Afghanistan,2008,407,1330
+Afghanistan,2009,426,1331
+Afghanistan,2010,429,1332
+Afghanistan,2011,371,1333
+Afghanistan,2012,449,1334
+Afghanistan,2013,450,1335
+Afghanistan,2014,471,1336
+Afghanistan,2015,498,1337
+Afghanistan,2016,506,1338
+Afghanistan,2017,476,1339
+Afghanistan,2018,418,1340
+Afghanistan,2019,422,1341
+Afghanistan,2020,354,1342
+Afghanistan,2021,420,1343
+Afghanistan,2022,682,1344
+Bangladesh,1999,3845,1345
+Bangladesh,2000,4114,1346
+Bangladesh,2001,3935,1347
+Bangladesh,2002,3596,1348
+Bangladesh,2003,3198,1349
+Bangladesh,2004,2758,1350
+Bangladesh,2005,2581,1351
+Bangladesh,2006,2410,1352
+Bangladesh,2007,2305,1353
+Bangladesh,2008,2706,1354
+Bangladesh,2009,2619,1355
+Bangladesh,2010,2873,1356
+Bangladesh,2011,3314,1357
+Bangladesh,2012,3828,1358
+Bangladesh,2013,4802,1359
+Bangladesh,2014,5455,1360
+Bangladesh,2015,6513,1361
+Bangladesh,2016,7143,1362
+Bangladesh,2017,7496,1363
+Bangladesh,2018,8249,1364
+Bangladesh,2019,8838,1365
+Bangladesh,2020,8598,1366
+Bangladesh,2021,10597,1367
+Bangladesh,2022,13563,1368
+Bhutan,1999,57,1369
+Bhutan,2000,62,1370
+Bhutan,2001,78,1371
+Bhutan,2002,68,1372
+Bhutan,2003,63,1373
+Bhutan,2004,70,1374
+Bhutan,2005,77,1375
+Bhutan,2006,83,1376
+Bhutan,2007,96,1377
+Bhutan,2008,109,1378
+Bhutan,2009,126,1379
+Bhutan,2010,115,1380
+Bhutan,2011,100,1381
+Bhutan,2012,133,1382
+Bhutan,2013,127,1383
+Bhutan,2014,128,1384
+Bhutan,2015,143,1385
+Bhutan,2016,148,1386
+Bhutan,2017,152,1387
+Bhutan,2018,146,1388
+Bhutan,2019,154,1389
+Bhutan,2020,116,1390
+Bhutan,2021,143,1391
+Bhutan,2022,188,1392
+India,1999,42337,1393
+India,2000,54664,1394
+India,2001,66836,1395
+India,2002,74603,1396
+India,2003,79736,1397
+India,2004,80466,1398
+India,2005,76503,1399
+India,2006,83833,1400
+India,2007,94563,1401
+India,2008,103260,1402
+India,2009,104897,1403
+India,2010,103895,1404
+India,2011,100270,1405
+India,2012,96754,1406
+India,2013,102673,1407
+India,2014,132888,1408
+India,2015,165918,1409
+India,2016,186267,1410
+India,2017,196271,1411
+India,2018,202014,1412
+India,2019,193124,1413
+India,2020,167582,1414
+India,2021,199182,1415
+India,2022,268923,1416
+Kazakhstan,1999,542,1417
+Kazakhstan,2000,540,1418
+Kazakhstan,2001,617,1419
+Kazakhstan,2002,556,1420
+Kazakhstan,2003,538,1421
+Kazakhstan,2004,477,1422
+Kazakhstan,2005,626,1423
+Kazakhstan,2006,1212,1424
+Kazakhstan,2007,1456,1425
+Kazakhstan,2008,1714,1426
+Kazakhstan,2009,1936,1427
+Kazakhstan,2010,1890,1428
+Kazakhstan,2011,1938,1429
+Kazakhstan,2012,1969,1430
+Kazakhstan,2013,2012,1431
+Kazakhstan,2014,2017,1432
+Kazakhstan,2015,1935,1433
+Kazakhstan,2016,1792,1434
+Kazakhstan,2017,1865,1435
+Kazakhstan,2018,1879,1436
+Kazakhstan,2019,2091,1437
+Kazakhstan,2020,1830,1438
+Kazakhstan,2021,2121,1439
+Kazakhstan,2022,2440,1440
+Kyrgyzstan,1999,126,1441
+Kyrgyzstan,2000,160,1442
+Kyrgyzstan,2001,230,1443
+Kyrgyzstan,2002,217,1444
+Kyrgyzstan,2003,179,1445
+Kyrgyzstan,2004,185,1446
+Kyrgyzstan,2005,189,1447
+Kyrgyzstan,2006,209,1448
+Kyrgyzstan,2007,264,1449
+Kyrgyzstan,2008,275,1450
+Kyrgyzstan,2009,274,1451
+Kyrgyzstan,2010,279,1452
+Kyrgyzstan,2011,254,1453
+Kyrgyzstan,2012,261,1454
+Kyrgyzstan,2013,244,1455
+Kyrgyzstan,2014,227,1456
+Kyrgyzstan,2015,227,1457
+Kyrgyzstan,2016,216,1458
+Kyrgyzstan,2017,227,1459
+Kyrgyzstan,2018,290,1460
+Kyrgyzstan,2019,357,1461
+Kyrgyzstan,2020,328,1462
+Kyrgyzstan,2021,478,1463
+Kyrgyzstan,2022,705,1464
+Maldives,1999,18,1465
+Maldives,2000,13,1466
+Maldives,2001,16,1467
+Maldives,2002,23,1468
+Maldives,2003,15,1469
+Maldives,2004,24,1470
+Maldives,2005,26,1471
+Maldives,2006,26,1472
+Maldives,2007,38,1473
+Maldives,2008,36,1474
+Maldives,2009,39,1475
+Maldives,2010,34,1476
+Maldives,2011,29,1477
+Maldives,2012,33,1478
+Maldives,2013,39,1479
+Maldives,2014,34,1480
+Maldives,2015,37,1481
+Maldives,2016,40,1482
+Maldives,2017,32,1483
+Maldives,2018,25,1484
+Maldives,2019,29,1485
+Maldives,2020,23,1486
+Maldives,2021,23,1487
+Maldives,2022,27,1488
+Nepal,1999,2411,1489
+Nepal,2000,2618,1490
+Nepal,2001,3019,1491
+Nepal,2002,3729,1492
+Nepal,2003,4384,1493
+Nepal,2004,4861,1494
+Nepal,2005,6061,1495
+Nepal,2006,7754,1496
+Nepal,2007,8936,1497
+Nepal,2008,11581,1498
+Nepal,2009,11233,1499
+Nepal,2010,10301,1500
+Nepal,2011,9621,1501
+Nepal,2012,8920,1502
+Nepal,2013,8155,1503
+Nepal,2014,8158,1504
+Nepal,2015,9662,1505
+Nepal,2016,11607,1506
+Nepal,2017,13270,1507
+Nepal,2018,13229,1508
+Nepal,2019,12730,1509
+Nepal,2020,11172,1510
+Nepal,2021,11799,1511
+Nepal,2022,15090,1512
+Pakistan,1999,6107,1513
+Pakistan,2000,6948,1514
+Pakistan,2001,8644,1515
+Pakistan,2002,8123,1516
+Pakistan,2003,7325,1517
+Pakistan,2004,6296,1518
+Pakistan,2005,5759,1519
+Pakistan,2006,5401,1520
+Pakistan,2007,5345,1521
+Pakistan,2008,5298,1522
+Pakistan,2009,5222,1523
+Pakistan,2010,5045,1524
+Pakistan,2011,4600,1525
+Pakistan,2012,4772,1526
+Pakistan,2013,4935,1527
+Pakistan,2014,5354,1528
+Pakistan,2015,6141,1529
+Pakistan,2016,7015,1530
+Pakistan,2017,7537,1531
+Pakistan,2018,7957,1532
+Pakistan,2019,7939,1533
+Pakistan,2020,7475,1534
+Pakistan,2021,8772,1535
+Pakistan,2022,10164,1536
+Sri Lanka,1999,1968,1537
+Sri Lanka,2000,1964,1538
+Sri Lanka,2001,2069,1539
+Sri Lanka,2002,2094,1540
+Sri Lanka,2003,1964,1541
+Sri Lanka,2004,1992,1542
+Sri Lanka,2005,2157,1543
+Sri Lanka,2006,2373,1544
+Sri Lanka,2007,2591,1545
+Sri Lanka,2008,2976,1546
+Sri Lanka,2009,2957,1547
+Sri Lanka,2010,2965,1548
+Sri Lanka,2011,2902,1549
+Sri Lanka,2012,3046,1550
+Sri Lanka,2013,2917,1551
+Sri Lanka,2014,2882,1552
+Sri Lanka,2015,3080,1553
+Sri Lanka,2016,3263,1554
+Sri Lanka,2017,3309,1555
+Sri Lanka,2018,3334,1556
+Sri Lanka,2019,3206,1557
+Sri Lanka,2020,2770,1558
+Sri Lanka,2021,2928,1559
+Sri Lanka,2022,3106,1560
+Tajikistan,1999,71,1561
+Tajikistan,2000,118,1562
+Tajikistan,2001,143,1563
+Tajikistan,2002,167,1564
+Tajikistan,2003,117,1565
+Tajikistan,2004,158,1566
+Tajikistan,2005,185,1567
+Tajikistan,2006,164,1568
+Tajikistan,2007,364,1569
+Tajikistan,2008,342,1570
+Tajikistan,2009,288,1571
+Tajikistan,2010,249,1572
+Tajikistan,2011,298,1573
+Tajikistan,2012,312,1574
+Tajikistan,2013,270,1575
+Tajikistan,2014,254,1576
+Tajikistan,2015,235,1577
+Tajikistan,2016,204,1578
+Tajikistan,2017,222,1579
+Tajikistan,2018,229,1580
+Tajikistan,2019,242,1581
+Tajikistan,2020,205,1582
+Tajikistan,2021,183,1583
+Tajikistan,2022,170,1584
+Turkmenistan,1999,65,1585
+Turkmenistan,2000,65,1586
+Turkmenistan,2001,71,1587
+Turkmenistan,2002,102,1588
+Turkmenistan,2003,98,1589
+Turkmenistan,2004,103,1590
+Turkmenistan,2005,154,1591
+Turkmenistan,2006,143,1592
+Turkmenistan,2007,166,1593
+Turkmenistan,2008,180,1594
+Turkmenistan,2009,195,1595
+Turkmenistan,2010,210,1596
+Turkmenistan,2011,209,1597
+Turkmenistan,2012,178,1598
+Turkmenistan,2013,214,1599
+Turkmenistan,2014,201,1600
+Turkmenistan,2015,216,1601
+Turkmenistan,2016,231,1602
+Turkmenistan,2017,234,1603
+Turkmenistan,2018,280,1604
+Turkmenistan,2019,272,1605
+Turkmenistan,2020,269,1606
+Turkmenistan,2021,223,1607
+Turkmenistan,2022,299,1608
+Uzbekistan,1999,493,1609
+Uzbekistan,2000,418,1610
+Uzbekistan,2001,381,1611
+Uzbekistan,2002,386,1612
+Uzbekistan,2003,412,1613
+Uzbekistan,2004,416,1614
+Uzbekistan,2005,472,1615
+Uzbekistan,2006,581,1616
+Uzbekistan,2007,539,1617
+Uzbekistan,2008,688,1618
+Uzbekistan,2009,513,1619
+Uzbekistan,2010,560,1620
+Uzbekistan,2011,486,1621
+Uzbekistan,2012,445,1622
+Uzbekistan,2013,463,1623
+Uzbekistan,2014,491,1624
+Uzbekistan,2015,530,1625
+Uzbekistan,2016,505,1626
+Uzbekistan,2017,570,1627
+Uzbekistan,2018,571,1628
+Uzbekistan,2019,546,1629
+Uzbekistan,2020,538,1630
+Uzbekistan,2021,631,1631
+Uzbekistan,2022,1089,1632
+Brunei,1999,26,1633
+Brunei,2000,25,1634
+Brunei,2001,27,1635
+Brunei,2002,17,1636
+Brunei,2003,13,1637
+Brunei,2004,18,1638
+Brunei,2005,12,1639
+Brunei,2006,24,1640
+Brunei,2007,34,1641
+Brunei,2008,39,1642
+Brunei,2009,43,1643
+Brunei,2010,66,1644
+Brunei,2011,69,1645
+Brunei,2012,61,1646
+Brunei,2013,60,1647
+Brunei,2014,73,1648
+Brunei,2015,59,1649
+Brunei,2016,53,1650
+Brunei,2017,53,1651
+Brunei,2018,50,1652
+Brunei,2019,54,1653
+Brunei,2020,37,1654
+Brunei,2021,42,1655
+Brunei,2022,41,1656
+Burma,1999,527,1657
+Burma,2000,673,1658
+Burma,2001,875,1659
+Burma,2002,870,1660
+Burma,2003,691,1661
+Burma,2004,651,1662
+Burma,2005,650,1663
+Burma,2006,625,1664
+Burma,2007,604,1665
+Burma,2008,667,1666
+Burma,2009,695,1667
+Burma,2010,796,1668
+Burma,2011,807,1669
+Burma,2012,955,1670
+Burma,2013,1042,1671
+Burma,2014,1067,1672
+Burma,2015,1194,1673
+Burma,2016,1351,1674
+Burma,2017,1569,1675
+Burma,2018,1773,1676
+Burma,2019,1828,1677
+Burma,2020,1698,1678
+Burma,2021,1909,1679
+Burma,2022,2483,1680
+Cambodia,1999,152,1681
+Cambodia,2000,187,1682
+Cambodia,2001,247,1683
+Cambodia,2002,329,1684
+Cambodia,2003,330,1685
+Cambodia,2004,333,1686
+Cambodia,2005,364,1687
+Cambodia,2006,329,1688
+Cambodia,2007,369,1689
+Cambodia,2008,353,1690
+Cambodia,2009,347,1691
+Cambodia,2010,340,1692
+Cambodia,2011,333,1693
+Cambodia,2012,393,1694
+Cambodia,2013,432,1695
+Cambodia,2014,492,1696
+Cambodia,2015,499,1697
+Cambodia,2016,512,1698
+Cambodia,2017,659,1699
+Cambodia,2018,685,1700
+Cambodia,2019,742,1701
+Cambodia,2020,848,1702
+Cambodia,2021,875,1703
+Cambodia,2022,1060,1704
+Indonesia,1999,11300,1705
+Indonesia,2000,11625,1706
+Indonesia,2001,11614,1707
+Indonesia,2002,10432,1708
+Indonesia,2003,8880,1709
+Indonesia,2004,7760,1710
+Indonesia,2005,7575,1711
+Indonesia,2006,7338,1712
+Indonesia,2007,7692,1713
+Indonesia,2008,7509,1714
+Indonesia,2009,6943,1715
+Indonesia,2010,6942,1716
+Indonesia,2011,7131,1717
+Indonesia,2012,7670,1718
+Indonesia,2013,7920,1719
+Indonesia,2014,8188,1720
+Indonesia,2015,8727,1721
+Indonesia,2016,8776,1722
+Indonesia,2017,8650,1723
+Indonesia,2018,8356,1724
+Indonesia,2019,8300,1725
+Indonesia,2020,7489,1726
+Indonesia,2021,8003,1727
+Indonesia,2022,8467,1728
+Laos,1999,131,1729
+Laos,2000,96,1730
+Laos,2001,133,1731
+Laos,2002,108,1732
+Laos,2003,65,1733
+Laos,2004,63,1734
+Laos,2005,65,1735
+Laos,2006,45,1736
+Laos,2007,69,1737
+Laos,2008,80,1738
+Laos,2009,64,1739
+Laos,2010,49,1740
+Laos,2011,43,1741
+Laos,2012,50,1742
+Laos,2013,57,1743
+Laos,2014,63,1744
+Laos,2015,63,1745
+Laos,2016,91,1746
+Laos,2017,104,1747
+Laos,2018,96,1748
+Laos,2019,131,1749
+Laos,2020,113,1750
+Laos,2021,101,1751
+Laos,2022,107,1752
+Malaysia,1999,9074,1753
+Malaysia,2000,7795,1754
+Malaysia,2001,7395,1755
+Malaysia,2002,6595,1756
+Malaysia,2003,6483,1757
+Malaysia,2004,6142,1758
+Malaysia,2005,5515,1759
+Malaysia,2006,5281,1760
+Malaysia,2007,5428,1761
+Malaysia,2008,5942,1762
+Malaysia,2009,6190,1763
+Malaysia,2010,6735,1764
+Malaysia,2011,6743,1765
+Malaysia,2012,6791,1766
+Malaysia,2013,6822,1767
+Malaysia,2014,7231,1768
+Malaysia,2015,7834,1769
+Malaysia,2016,8247,1770
+Malaysia,2017,8271,1771
+Malaysia,2018,7709,1772
+Malaysia,2019,6910,1773
+Malaysia,2020,5280,1774
+Malaysia,2021,4933,1775
+Malaysia,2022,4973,1776
+Philippines,1999,3143,1777
+Philippines,2000,3139,1778
+Philippines,2001,3295,1779
+Philippines,2002,3576,1780
+Philippines,2003,3467,1781
+Philippines,2004,3531,1782
+Philippines,2005,3758,1783
+Philippines,2006,3730,1784
+Philippines,2007,4170,1785
+Philippines,2008,4226,1786
+Philippines,2009,3815,1787
+Philippines,2010,3604,1788
+Philippines,2011,3194,1789
+Philippines,2012,3215,1790
+Philippines,2013,3112,1791
+Philippines,2014,3026,1792
+Philippines,2015,2886,1793
+Philippines,2016,3006,1794
+Philippines,2017,3225,1795
+Philippines,2018,3320,1796
+Philippines,2019,3295,1797
+Philippines,2020,2907,1798
+Philippines,2021,3278,1799
+Philippines,2022,3818,1800
+Singapore,1999,4250,1801
+Singapore,2000,4166,1802
+Singapore,2001,4141,1803
+Singapore,2002,4189,1804
+Singapore,2003,3955,1805
+Singapore,2004,3769,1806
+Singapore,2005,3909,1807
+Singapore,2006,3705,1808
+Singapore,2007,3976,1809
+Singapore,2008,3989,1810
+Singapore,2009,4051,1811
+Singapore,2010,4316,1812
+Singapore,2011,4505,1813
+Singapore,2012,4558,1814
+Singapore,2013,4592,1815
+Singapore,2014,4727,1816
+Singapore,2015,4865,1817
+Singapore,2016,4677,1818
+Singapore,2017,4575,1819
+Singapore,2018,4632,1820
+Singapore,2019,4504,1821
+Singapore,2020,3558,1822
+Singapore,2021,3901,1823
+Singapore,2022,4484,1824
+Thailand,1999,10983,1825
+Thailand,2000,11187,1826
+Thailand,2001,11606,1827
+Thailand,2002,9982,1828
+Thailand,2003,8937,1829
+Thailand,2004,8637,1830
+Thailand,2005,8765,1831
+Thailand,2006,8886,1832
+Thailand,2007,9004,1833
+Thailand,2008,8736,1834
+Thailand,2009,8531,1835
+Thailand,2010,8236,1836
+Thailand,2011,7626,1837
+Thailand,2012,7314,1838
+Thailand,2013,7341,1839
+Thailand,2014,7217,1840
+Thailand,2015,7113,1841
+Thailand,2016,6893,1842
+Thailand,2017,6636,1843
+Thailand,2018,6503,1844
+Thailand,2019,6154,1845
+Thailand,2020,4960,1846
+Thailand,2021,5007,1847
+Thailand,2022,5376,1848
+Vietnam,1999,2266,1849
+Vietnam,2000,2022,1850
+Vietnam,2001,2531,1851
+Vietnam,2002,2722,1852
+Vietnam,2003,3165,1853
+Vietnam,2004,3670,1854
+Vietnam,2005,4597,1855
+Vietnam,2006,6036,1856
+Vietnam,2007,8769,1857
+Vietnam,2008,12823,1858
+Vietnam,2009,13112,1859
+Vietnam,2010,14888,1860
+Vietnam,2011,15572,1861
+Vietnam,2012,16098,1862
+Vietnam,2013,16579,1863
+Vietnam,2014,18722,1864
+Vietnam,2015,21403,1865
+Vietnam,2016,22438,1866
+Vietnam,2017,24325,1867
+Vietnam,2018,24392,1868
+Vietnam,2019,23777,1869
+Vietnam,2020,21631,1870
+Vietnam,2021,20713,1871
+Vietnam,2022,21900,1872
+Albania,1999,855,1873
+Albania,2000,1118,1874
+Albania,2001,1129,1875
+Albania,2002,1106,1876
+Albania,2003,916,1877
+Albania,2004,866,1878
+Albania,2005,904,1879
+Albania,2006,841,1880
+Albania,2007,689,1881
+Albania,2008,757,1882
+Albania,2009,790,1883
+Albania,2010,697,1884
+Albania,2011,659,1885
+Albania,2012,649,1886
+Albania,2013,636,1887
+Albania,2014,670,1888
+Albania,2015,705,1889
+Albania,2016,781,1890
+Albania,2017,884,1891
+Albania,2018,993,1892
+Albania,2019,1095,1893
+Albania,2020,1053,1894
+Albania,2021,1026,1895
+Albania,2022,1087,1896
+Andorra,1999,13,1897
+Andorra,2000,5,1898
+Andorra,2001,8,1899
+Andorra,2002,11,1900
+Andorra,2003,9,1901
+Andorra,2004,11,1902
+Andorra,2005,6,1903
+Andorra,2006,3,1904
+Andorra,2007,9,1905
+Andorra,2008,12,1906
+Andorra,2009,11,1907
+Andorra,2010,14,1908
+Andorra,2011,24,1909
+Andorra,2012,13,1910
+Andorra,2013,9,1911
+Andorra,2014,9,1912
+Andorra,2015,11,1913
+Andorra,2016,16,1914
+Andorra,2017,14,1915
+Andorra,2018,17,1916
+Andorra,2019,11,1917
+Andorra,2020,16,1918
+Andorra,2021,18,1919
+Andorra,2022,20,1920
+Armenia,1999,342,1921
+Armenia,2000,366,1922
+Armenia,2001,439,1923
+Armenia,2002,390,1924
+Armenia,2003,412,1925
+Armenia,2004,410,1926
+Armenia,2005,408,1927
+Armenia,2006,427,1928
+Armenia,2007,403,1929
+Armenia,2008,401,1930
+Armenia,2009,374,1931
+Armenia,2010,350,1932
+Armenia,2011,363,1933
+Armenia,2012,345,1934
+Armenia,2013,272,1935
+Armenia,2014,304,1936
+Armenia,2015,270,1937
+Armenia,2016,280,1938
+Armenia,2017,313,1939
+Armenia,2018,328,1940
+Armenia,2019,339,1941
+Armenia,2020,318,1942
+Armenia,2021,366,1943
+Armenia,2022,457,1944
+Austria,1999,1041,1945
+Austria,2000,1062,1946
+Austria,2001,1079,1947
+Austria,2002,1060,1948
+Austria,2003,899,1949
+Austria,2004,885,1950
+Austria,2005,843,1951
+Austria,2006,843,1952
+Austria,2007,886,1953
+Austria,2008,909,1954
+Austria,2009,994,1955
+Austria,2010,1019,1956
+Austria,2011,989,1957
+Austria,2012,1036,1958
+Austria,2013,1062,1959
+Austria,2014,1114,1960
+Austria,2015,1141,1961
+Austria,2016,1111,1962
+Austria,2017,1148,1963
+Austria,2018,1098,1964
+Austria,2019,1105,1965
+Austria,2020,655,1966
+Austria,2021,977,1967
+Austria,2022,1054,1968
+Azerbaijan,1999,166,1969
+Azerbaijan,2000,253,1970
+Azerbaijan,2001,277,1971
+Azerbaijan,2002,277,1972
+Azerbaijan,2003,238,1973
+Azerbaijan,2004,252,1974
+Azerbaijan,2005,337,1975
+Azerbaijan,2006,286,1976
+Azerbaijan,2007,318,1977
+Azerbaijan,2008,364,1978
+Azerbaijan,2009,409,1979
+Azerbaijan,2010,440,1980
+Azerbaijan,2011,460,1981
+Azerbaijan,2012,388,1982
+Azerbaijan,2013,383,1983
+Azerbaijan,2014,408,1984
+Azerbaijan,2015,391,1985
+Azerbaijan,2016,386,1986
+Azerbaijan,2017,426,1987
+Azerbaijan,2018,489,1988
+Azerbaijan,2019,571,1989
+Azerbaijan,2020,556,1990
+Azerbaijan,2021,728,1991
+Azerbaijan,2022,901,1992
+Belarus,1999,283,1993
+Belarus,2000,311,1994
+Belarus,2001,411,1995
+Belarus,2002,417,1996
+Belarus,2003,422,1997
+Belarus,2004,431,1998
+Belarus,2005,458,1999
+Belarus,2006,496,2000
+Belarus,2007,457,2001
+Belarus,2008,443,2002
+Belarus,2009,408,2003
+Belarus,2010,347,2004
+Belarus,2011,358,2005
+Belarus,2012,355,2006
+Belarus,2013,306,2007
+Belarus,2014,330,2008
+Belarus,2015,323,2009
+Belarus,2016,319,2010
+Belarus,2017,351,2011
+Belarus,2018,378,2012
+Belarus,2019,388,2013
+Belarus,2020,356,2014
+Belarus,2021,357,2015
+Belarus,2022,382,2016
+Belgium,1999,904,2017
+Belgium,2000,881,2018
+Belgium,2001,884,2019
+Belgium,2002,847,2020
+Belgium,2003,823,2021
+Belgium,2004,743,2022
+Belgium,2005,754,2023
+Belgium,2006,703,2024
+Belgium,2007,812,2025
+Belgium,2008,858,2026
+Belgium,2009,845,2027
+Belgium,2010,904,2028
+Belgium,2011,880,2029
+Belgium,2012,894,2030
+Belgium,2013,948,2031
+Belgium,2014,1001,2032
+Belgium,2015,1094,2033
+Belgium,2016,1087,2034
+Belgium,2017,1080,2035
+Belgium,2018,1073,2036
+Belgium,2019,1055,2037
+Belgium,2020,756,2038
+Belgium,2021,988,2039
+Belgium,2022,1044,2040
+Bosnia and Herzegovina,1999,447,2041
+Bosnia and Herzegovina,2000,477,2042
+Bosnia and Herzegovina,2001,511,2043
+Bosnia and Herzegovina,2002,528,2044
+Bosnia and Herzegovina,2003,433,2045
+Bosnia and Herzegovina,2004,359,2046
+Bosnia and Herzegovina,2005,369,2047
+Bosnia and Herzegovina,2006,413,2048
+Bosnia and Herzegovina,2007,409,2049
+Bosnia and Herzegovina,2008,409,2050
+Bosnia and Herzegovina,2009,404,2051
+Bosnia and Herzegovina,2010,356,2052
+Bosnia and Herzegovina,2011,341,2053
+Bosnia and Herzegovina,2012,364,2054
+Bosnia and Herzegovina,2013,319,2055
+Bosnia and Herzegovina,2014,296,2056
+Bosnia and Herzegovina,2015,309,2057
+Bosnia and Herzegovina,2016,303,2058
+Bosnia and Herzegovina,2017,290,2059
+Bosnia and Herzegovina,2018,300,2060
+Bosnia and Herzegovina,2019,287,2061
+Bosnia and Herzegovina,2020,261,2062
+Bosnia and Herzegovina,2021,257,2063
+Bosnia and Herzegovina,2022,236,2064
+Bulgaria,1999,2847,2065
+Bulgaria,2000,3270,2066
+Bulgaria,2001,3584,2067
+Bulgaria,2002,3725,2068
+Bulgaria,2003,3734,2069
+Bulgaria,2004,3644,2070
+Bulgaria,2005,3633,2071
+Bulgaria,2006,3478,2072
+Bulgaria,2007,3205,2073
+Bulgaria,2008,2889,2074
+Bulgaria,2009,2495,2075
+Bulgaria,2010,1957,2076
+Bulgaria,2011,1694,2077
+Bulgaria,2012,1473,2078
+Bulgaria,2013,1252,2079
+Bulgaria,2014,1171,2080
+Bulgaria,2015,1016,2081
+Bulgaria,2016,929,2082
+Bulgaria,2017,826,2083
+Bulgaria,2018,757,2084
+Bulgaria,2019,690,2085
+Bulgaria,2020,585,2086
+Bulgaria,2021,532,2087
+Bulgaria,2022,546,2088
+Croatia,1999,812,2089
+Croatia,2000,782,2090
+Croatia,2001,802,2091
+Croatia,2002,735,2092
+Croatia,2003,660,2093
+Croatia,2004,675,2094
+Croatia,2005,639,2095
+Croatia,2006,629,2096
+Croatia,2007,602,2097
+Croatia,2008,617,2098
+Croatia,2009,623,2099
+Croatia,2010,583,2100
+Croatia,2011,552,2101
+Croatia,2012,581,2102
+Croatia,2013,529,2103
+Croatia,2014,523,2104
+Croatia,2015,527,2105
+Croatia,2016,537,2106
+Croatia,2017,528,2107
+Croatia,2018,516,2108
+Croatia,2019,472,2109
+Croatia,2020,393,2110
+Croatia,2021,392,2111
+Croatia,2022,408,2112
+Cyprus,1999,2071,2113
+Cyprus,2000,2217,2114
+Cyprus,2001,2027,2115
+Cyprus,2002,1834,2116
+Cyprus,2003,1562,2117
+Cyprus,2004,1326,2118
+Cyprus,2005,1111,2119
+Cyprus,2006,877,2120
+Cyprus,2007,782,2121
+Cyprus,2008,696,2122
+Cyprus,2009,586,2123
+Cyprus,2010,470,2124
+Cyprus,2011,438,2125
+Cyprus,2012,425,2126
+Cyprus,2013,419,2127
+Cyprus,2014,417,2128
+Cyprus,2015,401,2129
+Cyprus,2016,388,2130
+Cyprus,2017,410,2131
+Cyprus,2018,431,2132
+Cyprus,2019,432,2133
+Cyprus,2020,374,2134
+Cyprus,2021,413,2135
+Cyprus,2022,413,2136
+Czech Republic,1999,941,2137
+Czech Republic,2000,1112,2138
+Czech Republic,2001,1152,2139
+Czech Republic,2002,1180,2140
+Czech Republic,2003,1052,2141
+Czech Republic,2004,902,2142
+Czech Republic,2005,927,2143
+Czech Republic,2006,914,2144
+Czech Republic,2007,922,2145
+Czech Republic,2008,925,2146
+Czech Republic,2009,828,2147
+Czech Republic,2010,765,2148
+Czech Republic,2011,701,2149
+Czech Republic,2012,776,2150
+Czech Republic,2013,736,2151
+Czech Republic,2014,796,2152
+Czech Republic,2015,749,2153
+Czech Republic,2016,772,2154
+Czech Republic,2017,763,2155
+Czech Republic,2018,820,2156
+Czech Republic,2019,763,2157
+Czech Republic,2020,609,2158
+Czech Republic,2021,732,2159
+Czech Republic,2022,787,2160
+Denmark,1999,1066,2161
+Denmark,2000,1007,2162
+Denmark,2001,922,2163
+Denmark,2002,901,2164
+Denmark,2003,859,2165
+Denmark,2004,887,2166
+Denmark,2005,900,2167
+Denmark,2006,963,2168
+Denmark,2007,898,2169
+Denmark,2008,999,2170
+Denmark,2009,989,2171
+Denmark,2010,1149,2172
+Denmark,2011,1233,2173
+Denmark,2012,1359,2174
+Denmark,2013,1470,2175
+Denmark,2014,1602,2176
+Denmark,2015,1486,2177
+Denmark,2016,1490,2178
+Denmark,2017,1423,2179
+Denmark,2018,1423,2180
+Denmark,2019,1264,2181
+Denmark,2020,608,2182
+Denmark,2021,1091,2183
+Denmark,2022,1393,2184
+Estonia,1999,249,2185
+Estonia,2000,287,2186
+Estonia,2001,293,2187
+Estonia,2002,298,2188
+Estonia,2003,271,2189
+Estonia,2004,283,2190
+Estonia,2005,321,2191
+Estonia,2006,240,2192
+Estonia,2007,245,2193
+Estonia,2008,270,2194
+Estonia,2009,220,2195
+Estonia,2010,228,2196
+Estonia,2011,241,2197
+Estonia,2012,218,2198
+Estonia,2013,212,2199
+Estonia,2014,288,2200
+Estonia,2015,191,2201
+Estonia,2016,179,2202
+Estonia,2017,186,2203
+Estonia,2018,184,2204
+Estonia,2019,177,2205
+Estonia,2020,156,2206
+Estonia,2021,178,2207
+Estonia,2022,197,2208
+Finland,1999,905,2209
+Finland,2000,893,2210
+Finland,2001,819,2211
+Finland,2002,739,2212
+Finland,2003,619,2213
+Finland,2004,570,2214
+Finland,2005,608,2215
+Finland,2006,566,2216
+Finland,2007,672,2217
+Finland,2008,753,2218
+Finland,2009,663,2219
+Finland,2010,639,2220
+Finland,2011,640,2221
+Finland,2012,691,2222
+Finland,2013,656,2223
+Finland,2014,669,2224
+Finland,2015,714,2225
+Finland,2016,737,2226
+Finland,2017,768,2227
+Finland,2018,716,2228
+Finland,2019,690,2229
+Finland,2020,485,2230
+Finland,2021,480,2231
+Finland,2022,517,2232
+France,1999,6877,2233
+France,2000,7273,2234
+France,2001,7401,2235
+France,2002,7223,2236
+France,2003,6818,2237
+France,2004,6555,2238
+France,2005,6640,2239
+France,2006,6704,2240
+France,2007,7050,2241
+France,2008,7421,2242
+France,2009,7716,2243
+France,2010,8098,2244
+France,2011,8232,2245
+France,2012,8297,2246
+France,2013,8302,2247
+France,2014,8743,2248
+France,2015,8764,2249
+France,2016,8814,2250
+France,2017,8802,2251
+France,2018,8716,2252
+France,2019,8471,2253
+France,2020,5643,2254
+France,2021,7751,2255
+France,2022,8552,2256
+Georgia,1999,347,2257
+Georgia,2000,329,2258
+Georgia,2001,345,2259
+Georgia,2002,377,2260
+Georgia,2003,373,2261
+Georgia,2004,340,2262
+Georgia,2005,343,2263
+Georgia,2006,353,2264
+Georgia,2007,378,2265
+Georgia,2008,407,2266
+Georgia,2009,448,2267
+Georgia,2010,460,2268
+Georgia,2011,481,2269
+Georgia,2012,456,2270
+Georgia,2013,496,2271
+Georgia,2014,541,2272
+Georgia,2015,543,2273
+Georgia,2016,558,2274
+Georgia,2017,597,2275
+Georgia,2018,574,2276
+Georgia,2019,640,2277
+Georgia,2020,583,2278
+Georgia,2021,662,2279
+Georgia,2022,832,2280
+Germany,1999,9800,2281
+Germany,2000,10128,2282
+Germany,2001,9613,2283
+Germany,2002,9302,2284
+Germany,2003,8745,2285
+Germany,2004,8640,2286
+Germany,2005,8829,2287
+Germany,2006,8656,2288
+Germany,2007,8907,2289
+Germany,2008,9679,2290
+Germany,2009,9548,2291
+Germany,2010,9458,2292
+Germany,2011,9347,2293
+Germany,2012,9819,2294
+Germany,2013,10160,2295
+Germany,2014,10193,2296
+Germany,2015,10145,2297
+Germany,2016,10169,2298
+Germany,2017,10042,2299
+Germany,2018,9191,2300
+Germany,2019,9242,2301
+Germany,2020,5364,2302
+Germany,2021,8550,2303
+Germany,2022,9751,2304
+Greece,1999,2782,2305
+Greece,2000,2768,2306
+Greece,2001,2599,2307
+Greece,2002,2341,2308
+Greece,2003,2126,2309
+Greece,2004,2035,2310
+Greece,2005,2088,2311
+Greece,2006,1986,2312
+Greece,2007,1981,2313
+Greece,2008,1896,2314
+Greece,2009,1837,2315
+Greece,2010,1874,2316
+Greece,2011,1922,2317
+Greece,2012,2046,2318
+Greece,2013,2170,2319
+Greece,2014,2147,2320
+Greece,2015,2199,2321
+Greece,2016,2318,2322
+Greece,2017,2395,2323
+Greece,2018,2523,2324
+Greece,2019,2489,2325
+Greece,2020,2256,2326
+Greece,2021,2407,2327
+Greece,2022,2539,2328
+Hungary,1999,1166,2329
+Hungary,2000,1174,2330
+Hungary,2001,1242,2331
+Hungary,2002,1200,2332
+Hungary,2003,997,2333
+Hungary,2004,934,2334
+Hungary,2005,831,2335
+Hungary,2006,735,2336
+Hungary,2007,710,2337
+Hungary,2008,680,2338
+Hungary,2009,664,2339
+Hungary,2010,670,2340
+Hungary,2011,655,2341
+Hungary,2012,690,2342
+Hungary,2013,667,2343
+Hungary,2014,720,2344
+Hungary,2015,773,2345
+Hungary,2016,730,2346
+Hungary,2017,716,2347
+Hungary,2018,793,2348
+Hungary,2019,724,2349
+Hungary,2020,653,2350
+Hungary,2021,705,2351
+Hungary,2022,712,2352
+Iceland,1999,538,2353
+Iceland,2000,558,2354
+Iceland,2001,891,2355
+Iceland,2002,537,2356
+Iceland,2003,488,2357
+Iceland,2004,434,2358
+Iceland,2005,438,2359
+Iceland,2006,422,2360
+Iceland,2007,402,2361
+Iceland,2008,382,2362
+Iceland,2009,407,2363
+Iceland,2010,369,2364
+Iceland,2011,391,2365
+Iceland,2012,384,2366
+Iceland,2013,390,2367
+Iceland,2014,396,2368
+Iceland,2015,382,2369
+Iceland,2016,402,2370
+Iceland,2017,412,2371
+Iceland,2018,407,2372
+Iceland,2019,411,2373
+Iceland,2020,359,2374
+Iceland,2021,411,2375
+Iceland,2022,367,2376
+Ireland,1999,1166,2377
+Ireland,2000,1086,2378
+Ireland,2001,1053,2379
+Ireland,2002,1055,2380
+Ireland,2003,1020,2381
+Ireland,2004,976,2382
+Ireland,2005,1100,2383
+Ireland,2006,1081,2384
+Ireland,2007,1018,2385
+Ireland,2008,1059,2386
+Ireland,2009,1212,2387
+Ireland,2010,1167,2388
+Ireland,2011,1106,2389
+Ireland,2012,1158,2390
+Ireland,2013,1156,2391
+Ireland,2014,1192,2392
+Ireland,2015,1183,2393
+Ireland,2016,1217,2394
+Ireland,2017,1141,2395
+Ireland,2018,1180,2396
+Ireland,2019,1228,2397
+Ireland,2020,870,2398
+Ireland,2021,1295,2399
+Ireland,2022,1441,2400
+Italy,1999,3286,2401
+Italy,2000,3490,2402
+Italy,2001,3333,2403
+Italy,2002,3287,2404
+Italy,2003,3308,2405
+Italy,2004,3261,2406
+Italy,2005,3224,2407
+Italy,2006,3342,2408
+Italy,2007,3535,2409
+Italy,2008,3945,2410
+Italy,2009,4072,2411
+Italy,2010,4308,2412
+Italy,2011,4284,2413
+Italy,2012,4276,2414
+Italy,2013,4443,2415
+Italy,2014,4863,2416
+Italy,2015,5155,2417
+Italy,2016,5593,2418
+Italy,2017,5789,2419
+Italy,2018,6114,2420
+Italy,2019,6063,2421
+Italy,2020,4894,2422
+Italy,2021,5695,2423
+Italy,2022,6274,2424
+Kosovo,1999,0,2425
+Kosovo,2000,0,2426
+Kosovo,2001,0,2427
+Kosovo,2002,0,2428
+Kosovo,2003,0,2429
+Kosovo,2004,35,2430
+Kosovo,2005,70,2431
+Kosovo,2006,56,2432
+Kosovo,2007,50,2433
+Kosovo,2008,75,2434
+Kosovo,2009,88,2435
+Kosovo,2010,121,2436
+Kosovo,2011,114,2437
+Kosovo,2012,106,2438
+Kosovo,2013,112,2439
+Kosovo,2014,170,2440
+Kosovo,2015,268,2441
+Kosovo,2016,244,2442
+Kosovo,2017,229,2443
+Kosovo,2018,159,2444
+Kosovo,2019,173,2445
+Kosovo,2020,154,2446
+Kosovo,2021,157,2447
+Kosovo,2022,160,2448
+Latvia,1999,309,2449
+Latvia,2000,383,2450
+Latvia,2001,434,2451
+Latvia,2002,447,2452
+Latvia,2003,424,2453
+Latvia,2004,408,2454
+Latvia,2005,382,2455
+Latvia,2006,430,2456
+Latvia,2007,363,2457
+Latvia,2008,320,2458
+Latvia,2009,286,2459
+Latvia,2010,324,2460
+Latvia,2011,308,2461
+Latvia,2012,295,2462
+Latvia,2013,266,2463
+Latvia,2014,276,2464
+Latvia,2015,281,2465
+Latvia,2016,244,2466
+Latvia,2017,236,2467
+Latvia,2018,244,2468
+Latvia,2019,274,2469
+Latvia,2020,232,2470
+Latvia,2021,291,2471
+Latvia,2022,251,2472
+Liechtenstein,1999,11,2473
+Liechtenstein,2000,13,2474
+Liechtenstein,2001,12,2475
+Liechtenstein,2002,9,2476
+Liechtenstein,2003,6,2477
+Liechtenstein,2004,9,2478
+Liechtenstein,2005,14,2479
+Liechtenstein,2006,6,2480
+Liechtenstein,2007,13,2481
+Liechtenstein,2008,8,2482
+Liechtenstein,2009,8,2483
+Liechtenstein,2010,5,2484
+Liechtenstein,2011,14,2485
+Liechtenstein,2012,7,2486
+Liechtenstein,2013,8,2487
+Liechtenstein,2014,8,2488
+Liechtenstein,2015,8,2489
+Liechtenstein,2016,8,2490
+Liechtenstein,2017,9,2491
+Liechtenstein,2018,8,2492
+Liechtenstein,2019,9,2493
+Liechtenstein,2020,2,2494
+Liechtenstein,2021,7,2495
+Liechtenstein,2022,7,2496
+Lithuania,1999,405,2497
+Lithuania,2000,493,2498
+Lithuania,2001,628,2499
+Lithuania,2002,647,2500
+Lithuania,2003,691,2501
+Lithuania,2004,635,2502
+Lithuania,2005,653,2503
+Lithuania,2006,536,2504
+Lithuania,2007,495,2505
+Lithuania,2008,420,2506
+Lithuania,2009,361,2507
+Lithuania,2010,338,2508
+Lithuania,2011,288,2509
+Lithuania,2012,284,2510
+Lithuania,2013,287,2511
+Lithuania,2014,293,2512
+Lithuania,2015,315,2513
+Lithuania,2016,333,2514
+Lithuania,2017,327,2515
+Lithuania,2018,318,2516
+Lithuania,2019,320,2517
+Lithuania,2020,273,2518
+Lithuania,2021,314,2519
+Lithuania,2022,323,2520
+Luxembourg,1999,69,2521
+Luxembourg,2000,73,2522
+Luxembourg,2001,61,2523
+Luxembourg,2002,73,2524
+Luxembourg,2003,50,2525
+Luxembourg,2004,39,2526
+Luxembourg,2005,51,2527
+Luxembourg,2006,56,2528
+Luxembourg,2007,49,2529
+Luxembourg,2008,87,2530
+Luxembourg,2009,56,2531
+Luxembourg,2010,59,2532
+Luxembourg,2011,68,2533
+Luxembourg,2012,87,2534
+Luxembourg,2013,95,2535
+Luxembourg,2014,97,2536
+Luxembourg,2015,86,2537
+Luxembourg,2016,118,2538
+Luxembourg,2017,102,2539
+Luxembourg,2018,101,2540
+Luxembourg,2019,88,2541
+Luxembourg,2020,62,2542
+Luxembourg,2021,89,2543
+Luxembourg,2022,89,2544
+North Macedonia,1999,258,2545
+North Macedonia,2000,281,2546
+North Macedonia,2001,337,2547
+North Macedonia,2002,305,2548
+North Macedonia,2003,349,2549
+North Macedonia,2004,381,2550
+North Macedonia,2005,362,2551
+North Macedonia,2006,345,2552
+North Macedonia,2007,311,2553
+North Macedonia,2008,329,2554
+North Macedonia,2009,278,2555
+North Macedonia,2010,257,2556
+North Macedonia,2011,222,2557
+North Macedonia,2012,237,2558
+North Macedonia,2013,237,2559
+North Macedonia,2014,237,2560
+North Macedonia,2015,236,2561
+North Macedonia,2016,245,2562
+North Macedonia,2017,224,2563
+North Macedonia,2018,227,2564
+North Macedonia,2019,265,2565
+North Macedonia,2020,208,2566
+North Macedonia,2021,218,2567
+North Macedonia,2022,209,2568
+Malta,1999,65,2569
+Malta,2000,61,2570
+Malta,2001,51,2571
+Malta,2002,38,2572
+Malta,2003,30,2573
+Malta,2004,27,2574
+Malta,2005,38,2575
+Malta,2006,27,2576
+Malta,2007,24,2577
+Malta,2008,37,2578
+Malta,2009,32,2579
+Malta,2010,19,2580
+Malta,2011,41,2581
+Malta,2012,51,2582
+Malta,2013,52,2583
+Malta,2014,29,2584
+Malta,2015,23,2585
+Malta,2016,25,2586
+Malta,2017,34,2587
+Malta,2018,38,2588
+Malta,2019,52,2589
+Malta,2020,46,2590
+Malta,2021,62,2591
+Malta,2022,82,2592
+Moldova,1999,159,2593
+Moldova,2000,183,2594
+Moldova,2001,269,2595
+Moldova,2002,268,2596
+Moldova,2003,266,2597
+Moldova,2004,285,2598
+Moldova,2005,359,2599
+Moldova,2006,365,2600
+Moldova,2007,418,2601
+Moldova,2008,485,2602
+Moldova,2009,441,2603
+Moldova,2010,411,2604
+Moldova,2011,416,2605
+Moldova,2012,379,2606
+Moldova,2013,328,2607
+Moldova,2014,322,2608
+Moldova,2015,281,2609
+Moldova,2016,252,2610
+Moldova,2017,237,2611
+Moldova,2018,205,2612
+Moldova,2019,214,2613
+Moldova,2020,157,2614
+Moldova,2021,147,2615
+Moldova,2022,151,2616
+Monaco,1999,17,2617
+Monaco,2000,18,2618
+Monaco,2001,15,2619
+Monaco,2002,13,2620
+Monaco,2003,8,2621
+Monaco,2004,9,2622
+Monaco,2005,24,2623
+Monaco,2006,21,2624
+Monaco,2007,28,2625
+Monaco,2008,12,2626
+Monaco,2009,23,2627
+Monaco,2010,22,2628
+Monaco,2011,43,2629
+Monaco,2012,21,2630
+Monaco,2013,28,2631
+Monaco,2014,18,2632
+Monaco,2015,23,2633
+Monaco,2016,22,2634
+Monaco,2017,17,2635
+Monaco,2018,17,2636
+Monaco,2019,20,2637
+Monaco,2020,26,2638
+Monaco,2021,19,2639
+Monaco,2022,14,2640
+Netherlands,1999,1751,2641
+Netherlands,2000,1856,2642
+Netherlands,2001,1791,2643
+Netherlands,2002,1672,2644
+Netherlands,2003,1505,2645
+Netherlands,2004,1474,2646
+Netherlands,2005,1567,2647
+Netherlands,2006,1587,2648
+Netherlands,2007,1680,2649
+Netherlands,2008,1870,2650
+Netherlands,2009,1830,2651
+Netherlands,2010,1833,2652
+Netherlands,2011,1975,2653
+Netherlands,2012,1948,2654
+Netherlands,2013,2074,2655
+Netherlands,2014,2257,2656
+Netherlands,2015,2445,2657
+Netherlands,2016,2551,2658
+Netherlands,2017,2701,2659
+Netherlands,2018,2681,2660
+Netherlands,2019,2727,2661
+Netherlands,2020,1767,2662
+Netherlands,2021,2172,2663
+Netherlands,2022,2751,2664
+Norway,1999,2329,2665
+Norway,2000,2098,2666
+Norway,2001,2323,2667
+Norway,2002,1568,2668
+Norway,2003,1471,2669
+Norway,2004,1414,2670
+Norway,2005,1297,2671
+Norway,2006,1191,2672
+Norway,2007,1264,2673
+Norway,2008,1349,2674
+Norway,2009,1467,2675
+Norway,2010,1822,2676
+Norway,2011,2016,2677
+Norway,2012,2097,2678
+Norway,2013,2304,2679
+Norway,2014,2498,2680
+Norway,2015,2391,2681
+Norway,2016,2293,2682
+Norway,2017,2105,2683
+Norway,2018,1988,2684
+Norway,2019,1886,2685
+Norway,2020,1265,2686
+Norway,2021,1633,2687
+Norway,2022,1926,2688
+Poland,1999,2194,2689
+Poland,2000,2432,2690
+Poland,2001,2606,2691
+Poland,2002,2744,2692
+Poland,2003,2913,2693
+Poland,2004,2861,2694
+Poland,2005,3020,2695
+Poland,2006,2810,2696
+Poland,2007,2731,2697
+Poland,2008,2772,2698
+Poland,2009,2264,2699
+Poland,2010,1852,2700
+Poland,2011,1838,2701
+Poland,2012,1581,2702
+Poland,2013,1520,2703
+Poland,2014,1493,2704
+Poland,2015,1460,2705
+Poland,2016,1489,2706
+Poland,2017,1477,2707
+Poland,2018,1526,2708
+Poland,2019,1513,2709
+Poland,2020,1328,2710
+Poland,2021,1458,2711
+Poland,2022,1585,2712
+Portugal,1999,918,2713
+Portugal,2000,884,2714
+Portugal,2001,946,2715
+Portugal,2002,881,2716
+Portugal,2003,880,2717
+Portugal,2004,852,2718
+Portugal,2005,845,2719
+Portugal,2006,854,2720
+Portugal,2007,902,2721
+Portugal,2008,974,2722
+Portugal,2009,1015,2723
+Portugal,2010,981,2724
+Portugal,2011,970,2725
+Portugal,2012,949,2726
+Portugal,2013,877,2727
+Portugal,2014,915,2728
+Portugal,2015,919,2729
+Portugal,2016,929,2730
+Portugal,2017,937,2731
+Portugal,2018,973,2732
+Portugal,2019,934,2733
+Portugal,2020,791,2734
+Portugal,2021,1030,2735
+Portugal,2022,1045,2736
+Romania,1999,2716,2737
+Romania,2000,2976,2738
+Romania,2001,3325,2739
+Romania,2002,3407,2740
+Romania,2003,3320,2741
+Romania,2004,3217,2742
+Romania,2005,3225,2743
+Romania,2006,3134,2744
+Romania,2007,2902,2745
+Romania,2008,2612,2746
+Romania,2009,2204,2747
+Romania,2010,1883,2748
+Romania,2011,1607,2749
+Romania,2012,1460,2750
+Romania,2013,1317,2751
+Romania,2014,1220,2752
+Romania,2015,1105,2753
+Romania,2016,1173,2754
+Romania,2017,1071,2755
+Romania,2018,1016,2756
+Romania,2019,1000,2757
+Romania,2020,852,2758
+Romania,2021,872,2759
+Romania,2022,876,2760
+Russia,1999,7025,2761
+Russia,2000,6858,2762
+Russia,2001,6643,2763
+Russia,2002,6238,2764
+Russia,2003,5532,2765
+Russia,2004,5073,2766
+Russia,2005,4801,2767
+Russia,2006,4751,2768
+Russia,2007,4906,2769
+Russia,2008,4908,2770
+Russia,2009,4827,2771
+Russia,2010,4692,2772
+Russia,2011,4805,2773
+Russia,2012,4898,2774
+Russia,2013,5138,2775
+Russia,2014,5562,2776
+Russia,2015,5444,2777
+Russia,2016,5412,2778
+Russia,2017,5518,2779
+Russia,2018,5292,2780
+Russia,2019,5293,2781
+Russia,2020,4805,2782
+Russia,2021,4802,2783
+Russia,2022,4913,2784
+San Marino,1999,3,2785
+San Marino,2000,4,2786
+San Marino,2001,2,2787
+San Marino,2002,4,2788
+San Marino,2003,2,2789
+San Marino,2004,3,2790
+San Marino,2005,3,2791
+San Marino,2006,2,2792
+San Marino,2007,0,2793
+San Marino,2008,2,2794
+San Marino,2009,2,2795
+San Marino,2010,2,2796
+San Marino,2011,3,2797
+San Marino,2012,3,2798
+San Marino,2013,1,2799
+San Marino,2014,1,2800
+San Marino,2015,3,2801
+San Marino,2016,2,2802
+San Marino,2017,4,2803
+San Marino,2018,3,2804
+San Marino,2019,4,2805
+San Marino,2020,2,2806
+San Marino,2021,3,2807
+San Marino,2022,4,2808
+Serbia,1999,0,2809
+Serbia,2000,0,2810
+Serbia,2001,0,2811
+Serbia,2002,0,2812
+Serbia,2003,0,2813
+Serbia,2004,0,2814
+Serbia,2005,0,2815
+Serbia,2006,1074,2816
+Serbia,2007,1193,2817
+Serbia,2008,1234,2818
+Serbia,2009,1175,2819
+Serbia,2010,1067,2820
+Serbia,2011,1068,2821
+Serbia,2012,1041,2822
+Serbia,2013,966,2823
+Serbia,2014,970,2824
+Serbia,2015,1023,2825
+Serbia,2016,1055,2826
+Serbia,2017,1079,2827
+Serbia,2018,1098,2828
+Serbia,2019,1044,2829
+Serbia,2020,927,2830
+Serbia,2021,898,2831
+Serbia,2022,863,2832
+Slovakia,1999,498,2833
+Slovakia,2000,539,2834
+Slovakia,2001,627,2835
+Slovakia,2002,610,2836
+Slovakia,2003,585,2837
+Slovakia,2004,609,2838
+Slovakia,2005,697,2839
+Slovakia,2006,592,2840
+Slovakia,2007,536,2841
+Slovakia,2008,543,2842
+Slovakia,2009,466,2843
+Slovakia,2010,419,2844
+Slovakia,2011,424,2845
+Slovakia,2012,362,2846
+Slovakia,2013,356,2847
+Slovakia,2014,359,2848
+Slovakia,2015,343,2849
+Slovakia,2016,348,2850
+Slovakia,2017,347,2851
+Slovakia,2018,349,2852
+Slovakia,2019,331,2853
+Slovakia,2020,267,2854
+Slovakia,2021,305,2855
+Slovakia,2022,296,2856
+Slovenia,1999,224,2857
+Slovenia,2000,207,2858
+Slovenia,2001,225,2859
+Slovenia,2002,238,2860
+Slovenia,2003,209,2861
+Slovenia,2004,306,2862
+Slovenia,2005,219,2863
+Slovenia,2006,199,2864
+Slovenia,2007,210,2865
+Slovenia,2008,199,2866
+Slovenia,2009,192,2867
+Slovenia,2010,178,2868
+Slovenia,2011,171,2869
+Slovenia,2012,227,2870
+Slovenia,2013,188,2871
+Slovenia,2014,245,2872
+Slovenia,2015,256,2873
+Slovenia,2016,245,2874
+Slovenia,2017,250,2875
+Slovenia,2018,256,2876
+Slovenia,2019,260,2877
+Slovenia,2020,193,2878
+Slovenia,2021,201,2879
+Slovenia,2022,212,2880
+Spain,1999,4337,2881
+Spain,2000,4156,2882
+Spain,2001,4048,2883
+Spain,2002,3633,2884
+Spain,2003,3631,2885
+Spain,2004,3512,2886
+Spain,2005,3455,2887
+Spain,2006,3575,2888
+Spain,2007,3660,2889
+Spain,2008,3849,2890
+Spain,2009,3971,2891
+Spain,2010,4330,2892
+Spain,2011,4924,2893
+Spain,2012,5033,2894
+Spain,2013,5350,2895
+Spain,2014,6143,2896
+Spain,2015,6640,2897
+Spain,2016,7164,2898
+Spain,2017,7489,2899
+Spain,2018,7262,2900
+Spain,2019,7954,2901
+Spain,2020,5781,2902
+Spain,2021,8165,2903
+Spain,2022,8548,2904
+Sweden,1999,4994,2905
+Sweden,2000,4598,2906
+Sweden,2001,4041,2907
+Sweden,2002,3709,2908
+Sweden,2003,3116,2909
+Sweden,2004,3106,2910
+Sweden,2005,3212,2911
+Sweden,2006,2920,2912
+Sweden,2007,3292,2913
+Sweden,2008,3279,2914
+Sweden,2009,3116,2915
+Sweden,2010,3236,2916
+Sweden,2011,3926,2917
+Sweden,2012,4283,2918
+Sweden,2013,4369,2919
+Sweden,2014,4507,2920
+Sweden,2015,4297,2921
+Sweden,2016,4053,2922
+Sweden,2017,3543,2923
+Sweden,2018,3460,2924
+Sweden,2019,3213,2925
+Sweden,2020,2045,2926
+Sweden,2021,2352,2927
+Sweden,2022,2732,2928
+Switzerland,1999,1893,2929
+Switzerland,2000,1850,2930
+Switzerland,2001,1680,2931
+Switzerland,2002,1562,2932
+Switzerland,2003,1561,2933
+Switzerland,2004,1361,2934
+Switzerland,2005,1276,2935
+Switzerland,2006,1241,2936
+Switzerland,2007,1296,2937
+Switzerland,2008,1316,2938
+Switzerland,2009,1284,2939
+Switzerland,2010,1287,2940
+Switzerland,2011,1362,2941
+Switzerland,2012,1420,2942
+Switzerland,2013,1441,2943
+Switzerland,2014,1461,2944
+Switzerland,2015,1480,2945
+Switzerland,2016,1487,2946
+Switzerland,2017,1382,2947
+Switzerland,2018,1367,2948
+Switzerland,2019,1340,2949
+Switzerland,2020,988,2950
+Switzerland,2021,1301,2951
+Switzerland,2022,1434,2952
+Türkiye,1999,10100,2953
+Türkiye,2000,10983,2954
+Türkiye,2001,12091,2955
+Türkiye,2002,11601,2956
+Türkiye,2003,11398,2957
+Türkiye,2004,12474,2958
+Türkiye,2005,11622,2959
+Türkiye,2006,11506,2960
+Türkiye,2007,12030,2961
+Türkiye,2008,13263,2962
+Türkiye,2009,12397,2963
+Türkiye,2010,12184,2964
+Türkiye,2011,11973,2965
+Türkiye,2012,11278,2966
+Türkiye,2013,10821,2967
+Türkiye,2014,10724,2968
+Türkiye,2015,10691,2969
+Türkiye,2016,10586,2970
+Türkiye,2017,10520,2971
+Türkiye,2018,10159,2972
+Türkiye,2019,9481,2973
+Türkiye,2020,8109,2974
+Türkiye,2021,8467,2975
+Türkiye,2022,8657,2976
+Ukraine,1999,1673,2977
+Ukraine,2000,1909,2978
+Ukraine,2001,2195,2979
+Ukraine,2002,2070,2980
+Ukraine,2003,2004,2981
+Ukraine,2004,1831,2982
+Ukraine,2005,1805,2983
+Ukraine,2006,1692,2984
+Ukraine,2007,1714,2985
+Ukraine,2008,1716,2986
+Ukraine,2009,1727,2987
+Ukraine,2010,1583,2988
+Ukraine,2011,1535,2989
+Ukraine,2012,1490,2990
+Ukraine,2013,1464,2991
+Ukraine,2014,1551,2992
+Ukraine,2015,1680,2993
+Ukraine,2016,1817,2994
+Ukraine,2017,1928,2995
+Ukraine,2018,1953,2996
+Ukraine,2019,1899,2997
+Ukraine,2020,1739,2998
+Ukraine,2021,1835,2999
+Ukraine,2022,2072,3000
+United Kingdom,1999,7990,3001
+United Kingdom,2000,8139,3002
+United Kingdom,2001,8414,3003
+United Kingdom,2002,8326,3004
+United Kingdom,2003,8439,3005
+United Kingdom,2004,8236,3006
+United Kingdom,2005,8274,3007
+United Kingdom,2006,8438,3008
+United Kingdom,2007,8367,3009
+United Kingdom,2008,8701,3010
+United Kingdom,2009,8861,3011
+United Kingdom,2010,8947,3012
+United Kingdom,2011,9186,3013
+United Kingdom,2012,9467,3014
+United Kingdom,2013,10191,3015
+United Kingdom,2014,10743,3016
+United Kingdom,2015,11599,3017
+United Kingdom,2016,11489,3018
+United Kingdom,2017,11460,3019
+United Kingdom,2018,11146,3020
+United Kingdom,2019,10756,3021
+United Kingdom,2020,8028,3022
+United Kingdom,2021,10292,3023
+United Kingdom,2022,10659,3024
+Anguilla,1999,63,3025
+Anguilla,2000,65,3026
+Anguilla,2001,46,3027
+Anguilla,2002,46,3028
+Anguilla,2003,62,3029
+Anguilla,2004,61,3030
+Anguilla,2005,44,3031
+Anguilla,2006,49,3032
+Anguilla,2007,93,3033
+Anguilla,2008,71,3034
+Anguilla,2009,65,3035
+Anguilla,2010,43,3036
+Anguilla,2011,29,3037
+Anguilla,2012,15,3038
+Anguilla,2013,21,3039
+Anguilla,2014,15,3040
+Anguilla,2015,18,3041
+Anguilla,2016,14,3042
+Anguilla,2017,15,3043
+Anguilla,2018,19,3044
+Anguilla,2019,19,3045
+Anguilla,2020,19,3046
+Anguilla,2021,18,3047
+Anguilla,2022,15,3048
+Antigua and Barbuda,1999,287,3049
+Antigua and Barbuda,2000,271,3050
+Antigua and Barbuda,2001,239,3051
+Antigua and Barbuda,2002,215,3052
+Antigua and Barbuda,2003,240,3053
+Antigua and Barbuda,2004,204,3054
+Antigua and Barbuda,2005,226,3055
+Antigua and Barbuda,2006,203,3056
+Antigua and Barbuda,2007,174,3057
+Antigua and Barbuda,2008,189,3058
+Antigua and Barbuda,2009,213,3059
+Antigua and Barbuda,2010,193,3060
+Antigua and Barbuda,2011,183,3061
+Antigua and Barbuda,2012,188,3062
+Antigua and Barbuda,2013,215,3063
+Antigua and Barbuda,2014,120,3064
+Antigua and Barbuda,2015,228,3065
+Antigua and Barbuda,2016,225,3066
+Antigua and Barbuda,2017,200,3067
+Antigua and Barbuda,2018,164,3068
+Antigua and Barbuda,2019,193,3069
+Antigua and Barbuda,2020,186,3070
+Antigua and Barbuda,2021,159,3071
+Antigua and Barbuda,2022,168,3072
+Aruba,1999,82,3073
+Aruba,2000,85,3074
+Aruba,2001,64,3075
+Aruba,2002,55,3076
+Aruba,2003,60,3077
+Aruba,2004,70,3078
+Aruba,2005,91,3079
+Aruba,2006,90,3080
+Aruba,2007,68,3081
+Aruba,2008,124,3082
+Aruba,2009,72,3083
+Aruba,2010,94,3084
+Aruba,2011,67,3085
+Aruba,2012,69,3086
+Aruba,2013,74,3087
+Aruba,2014,68,3088
+Aruba,2015,89,3089
+Aruba,2016,73,3090
+Aruba,2017,90,3091
+Aruba,2018,71,3092
+Aruba,2019,73,3093
+Aruba,2020,74,3094
+Aruba,2021,65,3095
+Aruba,2022,58,3096
+Bahamas,1999,1902,3097
+Bahamas,2000,1762,3098
+Bahamas,2001,1973,3099
+Bahamas,2002,2012,3100
+Bahamas,2003,2030,3101
+Bahamas,2004,1638,3102
+Bahamas,2005,1631,3103
+Bahamas,2006,1681,3104
+Bahamas,2007,1542,3105
+Bahamas,2008,1773,3106
+Bahamas,2009,1828,3107
+Bahamas,2010,1720,3108
+Bahamas,2011,1737,3109
+Bahamas,2012,1629,3110
+Bahamas,2013,1744,3111
+Bahamas,2014,1835,3112
+Bahamas,2015,2027,3113
+Bahamas,2016,2252,3114
+Bahamas,2017,2176,3115
+Bahamas,2018,2148,3116
+Bahamas,2019,2500,3117
+Bahamas,2020,2342,3118
+Bahamas,2021,2387,3119
+Bahamas,2022,2606,3120
+Barbados,1999,701,3121
+Barbados,2000,647,3122
+Barbados,2001,580,3123
+Barbados,2002,590,3124
+Barbados,2003,569,3125
+Barbados,2004,494,3126
+Barbados,2005,467,3127
+Barbados,2006,440,3128
+Barbados,2007,403,3129
+Barbados,2008,452,3130
+Barbados,2009,360,3131
+Barbados,2010,332,3132
+Barbados,2011,267,3133
+Barbados,2012,293,3134
+Barbados,2013,285,3135
+Barbados,2014,278,3136
+Barbados,2015,319,3137
+Barbados,2016,319,3138
+Barbados,2017,322,3139
+Barbados,2018,333,3140
+Barbados,2019,298,3141
+Barbados,2020,339,3142
+Barbados,2021,269,3143
+Barbados,2022,287,3144
+Bermuda,1999,584,3145
+Bermuda,2000,609,3146
+Bermuda,2001,525,3147
+Bermuda,2002,714,3148
+Bermuda,2003,633,3149
+Bermuda,2004,494,3150
+Bermuda,2005,497,3151
+Bermuda,2006,476,3152
+Bermuda,2007,421,3153
+Bermuda,2008,410,3154
+Bermuda,2009,429,3155
+Bermuda,2010,395,3156
+Bermuda,2011,389,3157
+Bermuda,2012,406,3158
+Bermuda,2013,388,3159
+Bermuda,2014,387,3160
+Bermuda,2015,319,3161
+Bermuda,2016,315,3162
+Bermuda,2017,296,3163
+Bermuda,2018,280,3164
+Bermuda,2019,251,3165
+Bermuda,2020,234,3166
+Bermuda,2021,235,3167
+Bermuda,2022,228,3168
+British Virgin Islands,1999,83,3169
+British Virgin Islands,2000,84,3170
+British Virgin Islands,2001,97,3171
+British Virgin Islands,2002,113,3172
+British Virgin Islands,2003,145,3173
+British Virgin Islands,2004,187,3174
+British Virgin Islands,2005,188,3175
+British Virgin Islands,2006,138,3176
+British Virgin Islands,2007,93,3177
+British Virgin Islands,2008,96,3178
+British Virgin Islands,2009,122,3179
+British Virgin Islands,2010,94,3180
+British Virgin Islands,2011,116,3181
+British Virgin Islands,2012,112,3182
+British Virgin Islands,2013,80,3183
+British Virgin Islands,2014,99,3184
+British Virgin Islands,2015,95,3185
+British Virgin Islands,2016,76,3186
+British Virgin Islands,2017,70,3187
+British Virgin Islands,2018,81,3188
+British Virgin Islands,2019,81,3189
+British Virgin Islands,2020,45,3190
+British Virgin Islands,2021,35,3191
+British Virgin Islands,2022,82,3192
+Cayman Islands,1999,249,3193
+Cayman Islands,2000,243,3194
+Cayman Islands,2001,211,3195
+Cayman Islands,2002,203,3196
+Cayman Islands,2003,191,3197
+Cayman Islands,2004,168,3198
+Cayman Islands,2005,223,3199
+Cayman Islands,2006,210,3200
+Cayman Islands,2007,161,3201
+Cayman Islands,2008,164,3202
+Cayman Islands,2009,158,3203
+Cayman Islands,2010,165,3204
+Cayman Islands,2011,181,3205
+Cayman Islands,2012,175,3206
+Cayman Islands,2013,187,3207
+Cayman Islands,2014,174,3208
+Cayman Islands,2015,165,3209
+Cayman Islands,2016,165,3210
+Cayman Islands,2017,169,3211
+Cayman Islands,2018,159,3212
+Cayman Islands,2019,136,3213
+Cayman Islands,2020,120,3214
+Cayman Islands,2021,111,3215
+Cayman Islands,2022,145,3216
+Cuba,1999,139,3217
+Cuba,2000,517,3218
+Cuba,2001,163,3219
+Cuba,2002,141,3220
+Cuba,2003,132,3221
+Cuba,2004,190,3222
+Cuba,2005,119,3223
+Cuba,2006,99,3224
+Cuba,2007,82,3225
+Cuba,2008,84,3226
+Cuba,2009,88,3227
+Cuba,2010,62,3228
+Cuba,2011,57,3229
+Cuba,2012,76,3230
+Cuba,2013,69,3231
+Cuba,2014,94,3232
+Cuba,2015,153,3233
+Cuba,2016,119,3234
+Cuba,2017,152,3235
+Cuba,2018,163,3236
+Cuba,2019,130,3237
+Cuba,2020,115,3238
+Cuba,2021,114,3239
+Cuba,2022,113,3240
+Curacao,1999,0,3241
+Curacao,2000,0,3242
+Curacao,2001,0,3243
+Curacao,2002,0,3244
+Curacao,2003,0,3245
+Curacao,2004,0,3246
+Curacao,2005,0,3247
+Curacao,2006,0,3248
+Curacao,2007,0,3249
+Curacao,2008,0,3250
+Curacao,2009,0,3251
+Curacao,2010,0,3252
+Curacao,2011,0,3253
+Curacao,2012,4,3254
+Curacao,2013,76,3255
+Curacao,2014,75,3256
+Curacao,2015,117,3257
+Curacao,2016,118,3258
+Curacao,2017,128,3259
+Curacao,2018,122,3260
+Curacao,2019,136,3261
+Curacao,2020,74,3262
+Curacao,2021,76,3263
+Curacao,2022,54,3264
+Dominica,1999,256,3265
+Dominica,2000,258,3266
+Dominica,2001,232,3267
+Dominica,2002,288,3268
+Dominica,2003,232,3269
+Dominica,2004,319,3270
+Dominica,2005,376,3271
+Dominica,2006,327,3272
+Dominica,2007,228,3273
+Dominica,2008,285,3274
+Dominica,2009,301,3275
+Dominica,2010,256,3276
+Dominica,2011,261,3277
+Dominica,2012,237,3278
+Dominica,2013,191,3279
+Dominica,2014,166,3280
+Dominica,2015,238,3281
+Dominica,2016,271,3282
+Dominica,2017,371,3283
+Dominica,2018,227,3284
+Dominica,2019,576,3285
+Dominica,2020,583,3286
+Dominica,2021,514,3287
+Dominica,2022,459,3288
+Dominican Republic,1999,922,3289
+Dominican Republic,2000,869,3290
+Dominican Republic,2001,898,3291
+Dominican Republic,2002,983,3292
+Dominican Republic,2003,998,3293
+Dominican Republic,2004,868,3294
+Dominican Republic,2005,875,3295
+Dominican Republic,2006,961,3296
+Dominican Republic,2007,1159,3297
+Dominican Republic,2008,1387,3298
+Dominican Republic,2009,1400,3299
+Dominican Republic,2010,1393,3300
+Dominican Republic,2011,1610,3301
+Dominican Republic,2012,1803,3302
+Dominican Republic,2013,1746,3303
+Dominican Republic,2014,1535,3304
+Dominican Republic,2015,1513,3305
+Dominican Republic,2016,1428,3306
+Dominican Republic,2017,1467,3307
+Dominican Republic,2018,1559,3308
+Dominican Republic,2019,1379,3309
+Dominican Republic,2020,1244,3310
+Dominican Republic,2021,1300,3311
+Dominican Republic,2022,1514,3312
+Grenada,1999,292,3313
+Grenada,2000,281,3314
+Grenada,2001,185,3315
+Grenada,2002,317,3316
+Grenada,2003,229,3317
+Grenada,2004,210,3318
+Grenada,2005,376,3319
+Grenada,2006,297,3320
+Grenada,2007,238,3321
+Grenada,2008,298,3322
+Grenada,2009,231,3323
+Grenada,2010,189,3324
+Grenada,2011,261,3325
+Grenada,2012,225,3326
+Grenada,2013,189,3327
+Grenada,2014,145,3328
+Grenada,2015,186,3329
+Grenada,2016,194,3330
+Grenada,2017,170,3331
+Grenada,2018,133,3332
+Grenada,2019,161,3333
+Grenada,2020,141,3334
+Grenada,2021,118,3335
+Grenada,2022,129,3336
+Guadeloupe,1999,7,3337
+Guadeloupe,2000,10,3338
+Guadeloupe,2001,8,3339
+Guadeloupe,2002,8,3340
+Guadeloupe,2003,5,3341
+Guadeloupe,2004,10,3342
+Guadeloupe,2005,13,3343
+Guadeloupe,2006,10,3344
+Guadeloupe,2007,6,3345
+Guadeloupe,2008,14,3346
+Guadeloupe,2009,14,3347
+Guadeloupe,2010,14,3348
+Guadeloupe,2011,15,3349
+Guadeloupe,2012,11,3350
+Guadeloupe,2013,18,3351
+Guadeloupe,2014,11,3352
+Guadeloupe,2015,11,3353
+Guadeloupe,2016,9,3354
+Guadeloupe,2017,10,3355
+Guadeloupe,2018,8,3356
+Guadeloupe,2019,14,3357
+Guadeloupe,2020,3,3358
+Guadeloupe,2021,2,3359
+Guadeloupe,2022,25,3360
+Haiti,1999,1145,3361
+Haiti,2000,1012,3362
+Haiti,2001,1184,3363
+Haiti,2002,910,3364
+Haiti,2003,1074,3365
+Haiti,2004,1002,3366
+Haiti,2005,1029,3367
+Haiti,2006,1163,3368
+Haiti,2007,872,3369
+Haiti,2008,857,3370
+Haiti,2009,1012,3371
+Haiti,2010,888,3372
+Haiti,2011,889,3373
+Haiti,2012,934,3374
+Haiti,2013,942,3375
+Haiti,2014,934,3376
+Haiti,2015,946,3377
+Haiti,2016,958,3378
+Haiti,2017,948,3379
+Haiti,2018,967,3380
+Haiti,2019,1016,3381
+Haiti,2020,1067,3382
+Haiti,2021,1015,3383
+Haiti,2022,1015,3384
+Jamaica,1999,3762,3385
+Jamaica,2000,4225,3386
+Jamaica,2001,4286,3387
+Jamaica,2002,4723,3388
+Jamaica,2003,4994,3389
+Jamaica,2004,4368,3390
+Jamaica,2005,4166,3391
+Jamaica,2006,4110,3392
+Jamaica,2007,3871,3393
+Jamaica,2008,3902,3394
+Jamaica,2009,3530,3395
+Jamaica,2010,3172,3396
+Jamaica,2011,2694,3397
+Jamaica,2012,2499,3398
+Jamaica,2013,2502,3399
+Jamaica,2014,2440,3400
+Jamaica,2015,2510,3401
+Jamaica,2016,2797,3402
+Jamaica,2017,2785,3403
+Jamaica,2018,2820,3404
+Jamaica,2019,2884,3405
+Jamaica,2020,2714,3406
+Jamaica,2021,2651,3407
+Jamaica,2022,2928,3408
+Martinique,1999,7,3409
+Martinique,2000,8,3410
+Martinique,2001,13,3411
+Martinique,2002,6,3412
+Martinique,2003,9,3413
+Martinique,2004,16,3414
+Martinique,2005,15,3415
+Martinique,2006,8,3416
+Martinique,2007,5,3417
+Martinique,2008,7,3418
+Martinique,2009,8,3419
+Martinique,2010,8,3420
+Martinique,2011,3,3421
+Martinique,2012,4,3422
+Martinique,2013,7,3423
+Martinique,2014,3,3424
+Martinique,2015,9,3425
+Martinique,2016,9,3426
+Martinique,2017,12,3427
+Martinique,2018,11,3428
+Martinique,2019,8,3429
+Martinique,2020,3,3430
+Martinique,2021,4,3431
+Martinique,2022,5,3432
+Montserrat,1999,18,3433
+Montserrat,2000,10,3434
+Montserrat,2001,6,3435
+Montserrat,2002,13,3436
+Montserrat,2003,6,3437
+Montserrat,2004,13,3438
+Montserrat,2005,17,3439
+Montserrat,2006,24,3440
+Montserrat,2007,16,3441
+Montserrat,2008,13,3442
+Montserrat,2009,15,3443
+Montserrat,2010,8,3444
+Montserrat,2011,2,3445
+Montserrat,2012,3,3446
+Montserrat,2013,1,3447
+Montserrat,2014,1,3448
+Montserrat,2015,4,3449
+Montserrat,2016,3,3450
+Montserrat,2017,3,3451
+Montserrat,2018,7,3452
+Montserrat,2019,4,3453
+Montserrat,2020,6,3454
+Montserrat,2021,3,3455
+Montserrat,2022,4,3456
+St. Kitts and Nevis,1999,196,3457
+St. Kitts and Nevis,2000,271,3458
+St. Kitts and Nevis,2001,146,3459
+St. Kitts and Nevis,2002,172,3460
+St. Kitts and Nevis,2003,167,3461
+St. Kitts and Nevis,2004,196,3462
+St. Kitts and Nevis,2005,265,3463
+St. Kitts and Nevis,2006,271,3464
+St. Kitts and Nevis,2007,239,3465
+St. Kitts and Nevis,2008,310,3466
+St. Kitts and Nevis,2009,244,3467
+St. Kitts and Nevis,2010,217,3468
+St. Kitts and Nevis,2011,269,3469
+St. Kitts and Nevis,2012,234,3470
+St. Kitts and Nevis,2013,190,3471
+St. Kitts and Nevis,2014,182,3472
+St. Kitts and Nevis,2015,222,3473
+St. Kitts and Nevis,2016,218,3474
+St. Kitts and Nevis,2017,200,3475
+St. Kitts and Nevis,2018,147,3476
+St. Kitts and Nevis,2019,216,3477
+St. Kitts and Nevis,2020,235,3478
+St. Kitts and Nevis,2021,184,3479
+St. Kitts and Nevis,2022,186,3480
+St. Lucia,1999,231,3481
+St. Lucia,2000,267,3482
+St. Lucia,2001,269,3483
+St. Lucia,2002,331,3484
+St. Lucia,2003,299,3485
+St. Lucia,2004,345,3486
+St. Lucia,2005,342,3487
+St. Lucia,2006,331,3488
+St. Lucia,2007,319,3489
+St. Lucia,2008,331,3490
+St. Lucia,2009,529,3491
+St. Lucia,2010,526,3492
+St. Lucia,2011,352,3493
+St. Lucia,2012,330,3494
+St. Lucia,2013,322,3495
+St. Lucia,2014,275,3496
+St. Lucia,2015,265,3497
+St. Lucia,2016,268,3498
+St. Lucia,2017,229,3499
+St. Lucia,2018,206,3500
+St. Lucia,2019,215,3501
+St. Lucia,2020,216,3502
+St. Lucia,2021,164,3503
+St. Lucia,2022,201,3504
+St. Vincent and the Grenadines,1999,209,3505
+St. Vincent and the Grenadines,2000,139,3506
+St. Vincent and the Grenadines,2001,131,3507
+St. Vincent and the Grenadines,2002,172,3508
+St. Vincent and the Grenadines,2003,183,3509
+St. Vincent and the Grenadines,2004,175,3510
+St. Vincent and the Grenadines,2005,140,3511
+St. Vincent and the Grenadines,2006,139,3512
+St. Vincent and the Grenadines,2007,126,3513
+St. Vincent and the Grenadines,2008,122,3514
+St. Vincent and the Grenadines,2009,124,3515
+St. Vincent and the Grenadines,2010,105,3516
+St. Vincent and the Grenadines,2011,95,3517
+St. Vincent and the Grenadines,2012,98,3518
+St. Vincent and the Grenadines,2013,105,3519
+St. Vincent and the Grenadines,2014,75,3520
+St. Vincent and the Grenadines,2015,89,3521
+St. Vincent and the Grenadines,2016,83,3522
+St. Vincent and the Grenadines,2017,83,3523
+St. Vincent and the Grenadines,2018,92,3524
+St. Vincent and the Grenadines,2019,91,3525
+St. Vincent and the Grenadines,2020,86,3526
+St. Vincent and the Grenadines,2021,74,3527
+St. Vincent and the Grenadines,2022,93,3528
+Trinidad and Tobago,1999,2762,3529
+Trinidad and Tobago,2000,2901,3530
+Trinidad and Tobago,2001,2668,3531
+Trinidad and Tobago,2002,3127,3532
+Trinidad and Tobago,2003,3638,3533
+Trinidad and Tobago,2004,2930,3534
+Trinidad and Tobago,2005,2924,3535
+Trinidad and Tobago,2006,2912,3536
+Trinidad and Tobago,2007,2640,3537
+Trinidad and Tobago,2008,2475,3538
+Trinidad and Tobago,2009,2402,3539
+Trinidad and Tobago,2010,1882,3540
+Trinidad and Tobago,2011,1689,3541
+Trinidad and Tobago,2012,1532,3542
+Trinidad and Tobago,2013,1440,3543
+Trinidad and Tobago,2014,1464,3544
+Trinidad and Tobago,2015,1381,3545
+Trinidad and Tobago,2016,1304,3546
+Trinidad and Tobago,2017,1257,3547
+Trinidad and Tobago,2018,1202,3548
+Trinidad and Tobago,2019,1272,3549
+Trinidad and Tobago,2020,1180,3550
+Trinidad and Tobago,2021,1160,3551
+Trinidad and Tobago,2022,1248,3552
+Turks and Caicos,1999,30,3553
+Turks and Caicos,2000,48,3554
+Turks and Caicos,2001,64,3555
+Turks and Caicos,2002,54,3556
+Turks and Caicos,2003,78,3557
+Turks and Caicos,2004,168,3558
+Turks and Caicos,2005,166,3559
+Turks and Caicos,2006,199,3560
+Turks and Caicos,2007,169,3561
+Turks and Caicos,2008,169,3562
+Turks and Caicos,2009,146,3563
+Turks and Caicos,2010,82,3564
+Turks and Caicos,2011,55,3565
+Turks and Caicos,2012,29,3566
+Turks and Caicos,2013,29,3567
+Turks and Caicos,2014,36,3568
+Turks and Caicos,2015,44,3569
+Turks and Caicos,2016,50,3570
+Turks and Caicos,2017,42,3571
+Turks and Caicos,2018,37,3572
+Turks and Caicos,2019,37,3573
+Turks and Caicos,2020,46,3574
+Turks and Caicos,2021,40,3575
+Turks and Caicos,2022,36,3576
+Mexico and Central America,1999,16854,3577
+Mexico and Central America,2000,16764,3578
+Mexico and Central America,2001,18826,3579
+Mexico and Central America,2002,18856,3580
+Mexico and Central America,2003,19264,3581
+Mexico and Central America,2004,19227,3582
+Mexico and Central America,2005,19709,3583
+Mexico and Central America,2006,19743,3584
+Mexico and Central America,2007,20800,3585
+Mexico and Central America,2008,21430,3586
+Mexico and Central America,2009,19956,3587
+Mexico and Central America,2010,20361,3588
+Mexico and Central America,2011,20432,3589
+Mexico and Central America,2012,21072,3590
+Mexico and Central America,2013,22276,3591
+Mexico and Central America,2014,24709,3592
+Mexico and Central America,2015,24983,3593
+Mexico and Central America,2016,25158,3594
+Mexico and Central America,2017,24002,3595
+Mexico and Central America,2018,23998,3596
+Mexico and Central America,2019,23110,3597
+Mexico and Central America,2020,21224,3598
+Mexico and Central America,2021,23525,3599
+Mexico and Central America,2022,23778,3600
+Belize,1999,464,3601
+Belize,2000,489,3602
+Belize,2001,542,3603
+Belize,2002,489,3604
+Belize,2003,501,3605
+Belize,2004,449,3606
+Belize,2005,462,3607
+Belize,2006,454,3608
+Belize,2007,490,3609
+Belize,2008,468,3610
+Belize,2009,415,3611
+Belize,2010,388,3612
+Belize,2011,370,3613
+Belize,2012,333,3614
+Belize,2013,324,3615
+Belize,2014,312,3616
+Belize,2015,308,3617
+Belize,2016,356,3618
+Belize,2017,366,3619
+Belize,2018,375,3620
+Belize,2019,388,3621
+Belize,2020,352,3622
+Belize,2021,388,3623
+Belize,2022,370,3624
+Costa Rica,1999,821,3625
+Costa Rica,2000,928,3626
+Costa Rica,2001,966,3627
+Costa Rica,2002,951,3628
+Costa Rica,2003,907,3629
+Costa Rica,2004,895,3630
+Costa Rica,2005,896,3631
+Costa Rica,2006,939,3632
+Costa Rica,2007,927,3633
+Costa Rica,2008,1027,3634
+Costa Rica,2009,1089,3635
+Costa Rica,2010,1105,3636
+Costa Rica,2011,1078,3637
+Costa Rica,2012,1074,3638
+Costa Rica,2013,1067,3639
+Costa Rica,2014,1118,3640
+Costa Rica,2015,1148,3641
+Costa Rica,2016,1148,3642
+Costa Rica,2017,1146,3643
+Costa Rica,2018,1157,3644
+Costa Rica,2019,1240,3645
+Costa Rica,2020,1134,3646
+Costa Rica,2021,1315,3647
+Costa Rica,2022,1357,3648
+El Salvador,1999,1079,3649
+El Salvador,2000,825,3650
+El Salvador,2001,917,3651
+El Salvador,2002,971,3652
+El Salvador,2003,976,3653
+El Salvador,2004,962,3654
+El Salvador,2005,939,3655
+El Salvador,2006,1031,3656
+El Salvador,2007,940,3657
+El Salvador,2008,1184,3658
+El Salvador,2009,1208,3659
+El Salvador,2010,1157,3660
+El Salvador,2011,1151,3661
+El Salvador,2012,1172,3662
+El Salvador,2013,1233,3663
+El Salvador,2014,1460,3664
+El Salvador,2015,1632,3665
+El Salvador,2016,1570,3666
+El Salvador,2017,1554,3667
+El Salvador,2018,1566,3668
+El Salvador,2019,1581,3669
+El Salvador,2020,1492,3670
+El Salvador,2021,1445,3671
+El Salvador,2022,1309,3672
+Guatemala,1999,1044,3673
+Guatemala,2000,1050,3674
+Guatemala,2001,1058,3675
+Guatemala,2002,1045,3676
+Guatemala,2003,1030,3677
+Guatemala,2004,1037,3678
+Guatemala,2005,1006,3679
+Guatemala,2006,1014,3680
+Guatemala,2007,1019,3681
+Guatemala,2008,1094,3682
+Guatemala,2009,992,3683
+Guatemala,2010,1042,3684
+Guatemala,2011,1048,3685
+Guatemala,2012,1113,3686
+Guatemala,2013,1252,3687
+Guatemala,2014,1205,3688
+Guatemala,2015,1245,3689
+Guatemala,2016,1217,3690
+Guatemala,2017,1206,3691
+Guatemala,2018,1192,3692
+Guatemala,2019,1195,3693
+Guatemala,2020,1102,3694
+Guatemala,2021,1228,3695
+Guatemala,2022,1289,3696
+Honduras,1999,859,3697
+Honduras,2000,974,3698
+Honduras,2001,1007,3699
+Honduras,2002,985,3700
+Honduras,2003,1089,3701
+Honduras,2004,1140,3702
+Honduras,2005,1042,3703
+Honduras,2006,1097,3704
+Honduras,2007,1068,3705
+Honduras,2008,1226,3706
+Honduras,2009,1337,3707
+Honduras,2010,1349,3708
+Honduras,2011,1407,3709
+Honduras,2012,1513,3710
+Honduras,2013,1756,3711
+Honduras,2014,1760,3712
+Honduras,2015,1985,3713
+Honduras,2016,2046,3714
+Honduras,2017,2104,3715
+Honduras,2018,2191,3716
+Honduras,2019,2161,3717
+Honduras,2020,2021,3718
+Honduras,2021,2186,3719
+Honduras,2022,2227,3720
+Mexico,1999,10607,3721
+Mexico,2000,10670,3722
+Mexico,2001,12518,3723
+Mexico,2002,12801,3724
+Mexico,2003,13329,3725
+Mexico,2004,13063,3726
+Mexico,2005,13931,3727
+Mexico,2006,13826,3728
+Mexico,2007,14837,3729
+Mexico,2008,14850,3730
+Mexico,2009,13450,3731
+Mexico,2010,13713,3732
+Mexico,2011,13893,3733
+Mexico,2012,14199,3734
+Mexico,2013,14779,3735
+Mexico,2014,17052,3736
+Mexico,2015,16733,3737
+Mexico,2016,16835,3738
+Mexico,2017,15468,3739
+Mexico,2018,15229,3740
+Mexico,2019,14348,3741
+Mexico,2020,12986,3742
+Mexico,2021,14500,3743
+Mexico,2022,14541,3744
+Nicaragua,1999,591,3745
+Nicaragua,2000,611,3746
+Nicaragua,2001,608,3747
+Nicaragua,2002,480,3748
+Nicaragua,2003,473,3749
+Nicaragua,2004,673,3750
+Nicaragua,2005,410,3751
+Nicaragua,2006,409,3752
+Nicaragua,2007,389,3753
+Nicaragua,2008,448,3754
+Nicaragua,2009,383,3755
+Nicaragua,2010,434,3756
+Nicaragua,2011,363,3757
+Nicaragua,2012,434,3758
+Nicaragua,2013,437,3759
+Nicaragua,2014,418,3760
+Nicaragua,2015,395,3761
+Nicaragua,2016,398,3762
+Nicaragua,2017,409,3763
+Nicaragua,2018,443,3764
+Nicaragua,2019,489,3765
+Nicaragua,2020,478,3766
+Nicaragua,2021,553,3767
+Nicaragua,2022,598,3768
+Panama,1999,1389,3769
+Panama,2000,1217,3770
+Panama,2001,1208,3771
+Panama,2002,1134,3772
+Panama,2003,958,3773
+Panama,2004,1008,3774
+Panama,2005,1023,3775
+Panama,2006,973,3776
+Panama,2007,1130,3777
+Panama,2008,1133,3778
+Panama,2009,1082,3779
+Panama,2010,1173,3780
+Panama,2011,1122,3781
+Panama,2012,1234,3782
+Panama,2013,1428,3783
+Panama,2014,1384,3784
+Panama,2015,1537,3785
+Panama,2016,1588,3786
+Panama,2017,1749,3787
+Panama,2018,1845,3788
+Panama,2019,1708,3789
+Panama,2020,1659,3790
+Panama,2021,1910,3791
+Panama,2022,2087,3792
+South America,1999,31415,3793
+South America,2000,32447,3794
+South America,2001,35653,3795
+South America,2002,35199,3796
+South America,2003,34788,3797
+South America,2004,32962,3798
+South America,2005,31205,3799
+South America,2006,30982,3800
+South America,2007,30932,3801
+South America,2008,32961,3802
+South America,2009,32564,3803
+South America,2010,32164,3804
+South America,2011,32602,3805
+South America,2012,34692,3806
+South America,2013,39163,3807
+South America,2014,51191,3808
+South America,2015,48883,3809
+South America,2016,43146,3810
+South America,2017,44629,3811
+South America,2018,45899,3812
+South America,2019,45249,3813
+South America,2020,40451,3814
+South America,2021,43655,3815
+South America,2022,46475,3816
+Argentina,1999,2978,3817
+Argentina,2000,3172,3818
+Argentina,2001,3444,3819
+Argentina,2002,3644,3820
+Argentina,2003,3644,3821
+Argentina,2004,3363,3822
+Argentina,2005,3032,3823
+Argentina,2006,2813,3824
+Argentina,2007,2535,3825
+Argentina,2008,2380,3826
+Argentina,2009,2165,3827
+Argentina,2010,2105,3828
+Argentina,2011,1888,3829
+Argentina,2012,1847,3830
+Argentina,2013,1902,3831
+Argentina,2014,2053,3832
+Argentina,2015,2201,3833
+Argentina,2016,2219,3834
+Argentina,2017,2283,3835
+Argentina,2018,2407,3836
+Argentina,2019,2428,3837
+Argentina,2020,2184,3838
+Argentina,2021,2718,3839
+Argentina,2022,2979,3840
+Bolivia,1999,876,3841
+Bolivia,2000,897,3842
+Bolivia,2001,953,3843
+Bolivia,2002,1051,3844
+Bolivia,2003,1004,3845
+Bolivia,2004,1008,3846
+Bolivia,2005,995,3847
+Bolivia,2006,993,3848
+Bolivia,2007,964,3849
+Bolivia,2008,1067,3850
+Bolivia,2009,1039,3851
+Bolivia,2010,977,3852
+Bolivia,2011,1025,3853
+Bolivia,2012,1024,3854
+Bolivia,2013,1068,3855
+Bolivia,2014,1116,3856
+Bolivia,2015,1142,3857
+Bolivia,2016,1207,3858
+Bolivia,2017,1153,3859
+Bolivia,2018,1195,3860
+Bolivia,2019,1199,3861
+Bolivia,2020,1124,3862
+Bolivia,2021,1285,3863
+Bolivia,2022,1332,3864
+Brazil,1999,8600,3865
+Brazil,2000,8846,3866
+Brazil,2001,8972,3867
+Brazil,2002,8388,3868
+Brazil,2003,7799,3869
+Brazil,2004,7244,3870
+Brazil,2005,7009,3871
+Brazil,2006,7126,3872
+Brazil,2007,7578,3873
+Brazil,2008,8767,3874
+Brazil,2009,8786,3875
+Brazil,2010,8777,3876
+Brazil,2011,9029,3877
+Brazil,2012,10868,3878
+Brazil,2013,13286,3879
+Brazil,2014,23675,3880
+Brazil,2015,19370,3881
+Brazil,2016,13089,3882
+Brazil,2017,14620,3883
+Brazil,2018,16059,3884
+Brazil,2019,16671,3885
+Brazil,2020,14000,3886
+Brazil,2021,14897,3887
+Brazil,2022,16025,3888
+Chile,1999,1429,3889
+Chile,2000,1553,3890
+Chile,2001,1655,3891
+Chile,2002,1723,3892
+Chile,2003,1612,3893
+Chile,2004,1559,3894
+Chile,2005,1550,3895
+Chile,2006,1570,3896
+Chile,2007,1685,3897
+Chile,2008,1953,3898
+Chile,2009,2055,3899
+Chile,2010,2164,3900
+Chile,2011,2203,3901
+Chile,2012,2349,3902
+Chile,2013,2432,3903
+Chile,2014,2513,3904
+Chile,2015,2630,3905
+Chile,2016,2523,3906
+Chile,2017,2528,3907
+Chile,2018,2699,3908
+Chile,2019,2483,3909
+Chile,2020,2227,3910
+Chile,2021,2750,3911
+Chile,2022,3007,3912
+Colombia,1999,6277,3913
+Colombia,2000,6765,3914
+Colombia,2001,8068,3915
+Colombia,2002,7771,3916
+Colombia,2003,7533,3917
+Colombia,2004,7334,3918
+Colombia,2005,6835,3919
+Colombia,2006,6750,3920
+Colombia,2007,6662,3921
+Colombia,2008,7013,3922
+Colombia,2009,6920,3923
+Colombia,2010,6456,3924
+Colombia,2011,6295,3925
+Colombia,2012,6543,3926
+Colombia,2013,7083,3927
+Colombia,2014,7169,3928
+Colombia,2015,7815,3929
+Colombia,2016,7982,3930
+Colombia,2017,7976,3931
+Colombia,2018,8060,3932
+Colombia,2019,7787,3933
+Colombia,2020,7107,3934
+Colombia,2021,8077,3935
+Colombia,2022,9096,3936
+Ecuador,1999,1939,3937
+Ecuador,2000,2028,3938
+Ecuador,2001,2364,3939
+Ecuador,2002,2398,3940
+Ecuador,2003,2345,3941
+Ecuador,2004,2177,3942
+Ecuador,2005,2173,3943
+Ecuador,2006,2211,3944
+Ecuador,2007,2152,3945
+Ecuador,2008,2268,3946
+Ecuador,2009,2232,3947
+Ecuador,2010,2150,3948
+Ecuador,2011,2160,3949
+Ecuador,2012,2299,3950
+Ecuador,2013,2578,3951
+Ecuador,2014,2797,3952
+Ecuador,2015,2889,3953
+Ecuador,2016,3032,3954
+Ecuador,2017,3050,3955
+Ecuador,2018,2892,3956
+Ecuador,2019,2852,3957
+Ecuador,2020,2515,3958
+Ecuador,2021,2781,3959
+Ecuador,2022,3090,3960
+French Guiana,1999,8,3961
+French Guiana,2000,5,3962
+French Guiana,2001,6,3963
+French Guiana,2002,4,3964
+French Guiana,2003,1,3965
+French Guiana,2004,3,3966
+French Guiana,2005,3,3967
+French Guiana,2006,2,3968
+French Guiana,2007,8,3969
+French Guiana,2008,4,3970
+French Guiana,2009,2,3971
+French Guiana,2010,28,3972
+French Guiana,2011,1,3973
+French Guiana,2012,4,3974
+French Guiana,2013,2,3975
+French Guiana,2014,11,3976
+French Guiana,2015,7,3977
+French Guiana,2016,1,3978
+French Guiana,2017,3,3979
+French Guiana,2018,7,3980
+French Guiana,2019,7,3981
+French Guiana,2020,4,3982
+French Guiana,2021,3,3983
+French Guiana,2022,13,3984
+Guyana,1999,496,3985
+Guyana,2000,409,3986
+Guyana,2001,359,3987
+Guyana,2002,503,3988
+Guyana,2003,503,3989
+Guyana,2004,441,3990
+Guyana,2005,349,3991
+Guyana,2006,343,3992
+Guyana,2007,300,3993
+Guyana,2008,280,3994
+Guyana,2009,296,3995
+Guyana,2010,272,3996
+Guyana,2011,224,3997
+Guyana,2012,206,3998
+Guyana,2013,246,3999
+Guyana,2014,230,4000
+Guyana,2015,246,4001
+Guyana,2016,250,4002
+Guyana,2017,296,4003
+Guyana,2018,311,4004
+Guyana,2019,301,4005
+Guyana,2020,358,4006
+Guyana,2021,326,4007
+Guyana,2022,380,4008
+Paraguay,1999,304,4009
+Paraguay,2000,371,4010
+Paraguay,2001,375,4011
+Paraguay,2002,418,4012
+Paraguay,2003,343,4013
+Paraguay,2004,305,4014
+Paraguay,2005,321,4015
+Paraguay,2006,340,4016
+Paraguay,2007,377,4017
+Paraguay,2008,380,4018
+Paraguay,2009,340,4019
+Paraguay,2010,322,4020
+Paraguay,2011,342,4021
+Paraguay,2012,395,4022
+Paraguay,2013,492,4023
+Paraguay,2014,505,4024
+Paraguay,2015,564,4025
+Paraguay,2016,587,4026
+Paraguay,2017,590,4027
+Paraguay,2018,619,4028
+Paraguay,2019,609,4029
+Paraguay,2020,804,4030
+Paraguay,2021,714,4031
+Paraguay,2022,732,4032
+Peru,1999,2785,4033
+Peru,2000,2660,4034
+Peru,2001,3188,4035
+Peru,2002,3376,4036
+Peru,2003,3771,4037
+Peru,2004,3631,4038
+Peru,2005,3519,4039
+Peru,2006,3701,4040
+Peru,2007,3672,4041
+Peru,2008,3598,4042
+Peru,2009,3279,4043
+Peru,2010,2939,4044
+Peru,2011,2702,4045
+Peru,2012,2539,4046
+Peru,2013,2607,4047
+Peru,2014,2763,4048
+Peru,2015,3256,4049
+Peru,2016,3200,4050
+Peru,2017,3235,4051
+Peru,2018,3409,4052
+Peru,2019,3547,4053
+Peru,2020,3556,4054
+Peru,2021,4335,4055
+Peru,2022,5170,4056
+Suriname,1999,111,4057
+Suriname,2000,121,4058
+Suriname,2001,100,4059
+Suriname,2002,97,4060
+Suriname,2003,126,4061
+Suriname,2004,92,4062
+Suriname,2005,117,4063
+Suriname,2006,101,4064
+Suriname,2007,88,4065
+Suriname,2008,93,4066
+Suriname,2009,101,4067
+Suriname,2010,94,4068
+Suriname,2011,92,4069
+Suriname,2012,88,4070
+Suriname,2013,91,4071
+Suriname,2014,82,4072
+Suriname,2015,84,4073
+Suriname,2016,83,4074
+Suriname,2017,80,4075
+Suriname,2018,74,4076
+Suriname,2019,57,4077
+Suriname,2020,55,4078
+Suriname,2021,37,4079
+Suriname,2022,43,4080
+Uruguay,1999,397,4081
+Uruguay,2000,397,4082
+Uruguay,2001,468,4083
+Uruguay,2002,493,4084
+Uruguay,2003,532,4085
+Uruguay,2004,526,4086
+Uruguay,2005,509,4087
+Uruguay,2006,476,4088
+Uruguay,2007,458,4089
+Uruguay,2008,447,4090
+Uruguay,2009,390,4091
+Uruguay,2010,389,4092
+Uruguay,2011,360,4093
+Uruguay,2012,365,4094
+Uruguay,2013,353,4095
+Uruguay,2014,384,4096
+Uruguay,2015,410,4097
+Uruguay,2016,433,4098
+Uruguay,2017,444,4099
+Uruguay,2018,407,4100
+Uruguay,2019,453,4101
+Uruguay,2020,395,4102
+Uruguay,2021,414,4103
+Uruguay,2022,398,4104
+Venezuela,1999,5125,4105
+Venezuela,2000,5217,4106
+Venezuela,2001,5627,4107
+Venezuela,2002,5333,4108
+Venezuela,2003,5575,4109
+Venezuela,2004,5279,4110
+Venezuela,2005,4792,4111
+Venezuela,2006,4523,4112
+Venezuela,2007,4446,4113
+Venezuela,2008,4678,4114
+Venezuela,2009,4958,4115
+Venezuela,2010,5491,4116
+Venezuela,2011,6281,4117
+Venezuela,2012,6158,4118
+Venezuela,2013,7022,4119
+Venezuela,2014,7890,4120
+Venezuela,2015,8267,4121
+Venezuela,2016,8540,4122
+Venezuela,2017,8371,4123
+Venezuela,2018,7760,4124
+Venezuela,2019,6855,4125
+Venezuela,2020,6122,4126
+Venezuela,2021,5317,4127
+Venezuela,2022,4210,4128
+Bahrain,1999,542,4129
+Bahrain,2000,562,4130
+Bahrain,2001,601,4131
+Bahrain,2002,451,4132
+Bahrain,2003,444,4133
+Bahrain,2004,377,4134
+Bahrain,2005,373,4135
+Bahrain,2006,392,4136
+Bahrain,2007,394,4137
+Bahrain,2008,431,4138
+Bahrain,2009,415,4139
+Bahrain,2010,409,4140
+Bahrain,2011,438,4141
+Bahrain,2012,459,4142
+Bahrain,2013,467,4143
+Bahrain,2014,474,4144
+Bahrain,2015,469,4145
+Bahrain,2016,475,4146
+Bahrain,2017,451,4147
+Bahrain,2018,422,4148
+Bahrain,2019,406,4149
+Bahrain,2020,362,4150
+Bahrain,2021,387,4151
+Bahrain,2022,371,4152
+Iran,1999,1885,4153
+Iran,2000,1844,4154
+Iran,2001,2216,4155
+Iran,2002,2258,4156
+Iran,2003,2321,4157
+Iran,2004,2251,4158
+Iran,2005,2420,4159
+Iran,2006,2795,4160
+Iran,2007,3060,4161
+Iran,2008,3533,4162
+Iran,2009,4731,4163
+Iran,2010,5626,4164
+Iran,2011,6982,4165
+Iran,2012,8744,4166
+Iran,2013,10194,4167
+Iran,2014,11338,4168
+Iran,2015,12269,4169
+Iran,2016,12643,4170
+Iran,2017,12783,4171
+Iran,2018,12142,4172
+Iran,2019,11451,4173
+Iran,2020,9614,4174
+Iran,2021,9295,4175
+Iran,2022,10812,4176
+Iraq,1999,112,4177
+Iraq,2000,155,4178
+Iraq,2001,147,4179
+Iraq,2002,127,4180
+Iraq,2003,120,4181
+Iraq,2004,142,4182
+Iraq,2005,190,4183
+Iraq,2006,262,4184
+Iraq,2007,307,4185
+Iraq,2008,359,4186
+Iraq,2009,423,4187
+Iraq,2010,616,4188
+Iraq,2011,809,4189
+Iraq,2012,1074,4190
+Iraq,2013,1491,4191
+Iraq,2014,1727,4192
+Iraq,2015,1901,4193
+Iraq,2016,1698,4194
+Iraq,2017,1438,4195
+Iraq,2018,1237,4196
+Iraq,2019,965,4197
+Iraq,2020,771,4198
+Iraq,2021,597,4199
+Iraq,2022,544,4200
+Israel,1999,3238,4201
+Israel,2000,3402,4202
+Israel,2001,3458,4203
+Israel,2002,3521,4204
+Israel,2003,3474,4205
+Israel,2004,3323,4206
+Israel,2005,3419,4207
+Israel,2006,3269,4208
+Israel,2007,3004,4209
+Israel,2008,3060,4210
+Israel,2009,2778,4211
+Israel,2010,2701,4212
+Israel,2011,2490,4213
+Israel,2012,2430,4214
+Israel,2013,2457,4215
+Israel,2014,2370,4216
+Israel,2015,2343,4217
+Israel,2016,2393,4218
+Israel,2017,2327,4219
+Israel,2018,2392,4220
+Israel,2019,2226,4221
+Israel,2020,1844,4222
+Israel,2021,2027,4223
+Israel,2022,2019,4224
+Jordan,1999,2074,4225
+Jordan,2000,2187,4226
+Jordan,2001,2417,4227
+Jordan,2002,2173,4228
+Jordan,2003,1853,4229
+Jordan,2004,1754,4230
+Jordan,2005,1733,4231
+Jordan,2006,1726,4232
+Jordan,2007,1799,4233
+Jordan,2008,2225,4234
+Jordan,2009,1995,4235
+Jordan,2010,2002,4236
+Jordan,2011,2062,4237
+Jordan,2012,2109,4238
+Jordan,2013,2148,4239
+Jordan,2014,2215,4240
+Jordan,2015,2330,4241
+Jordan,2016,2312,4242
+Jordan,2017,2420,4243
+Jordan,2018,2435,4244
+Jordan,2019,2441,4245
+Jordan,2020,2338,4246
+Jordan,2021,2426,4247
+Jordan,2022,2608,4248
+Kuwait,1999,3298,4249
+Kuwait,2000,3045,4250
+Kuwait,2001,2966,4251
+Kuwait,2002,2212,4252
+Kuwait,2003,1846,4253
+Kuwait,2004,1720,4254
+Kuwait,2005,1703,4255
+Kuwait,2006,1633,4256
+Kuwait,2007,1823,4257
+Kuwait,2008,2031,4258
+Kuwait,2009,2442,4259
+Kuwait,2010,2998,4260
+Kuwait,2011,3722,4261
+Kuwait,2012,5115,4262
+Kuwait,2013,7288,4263
+Kuwait,2014,9034,4264
+Kuwait,2015,9772,4265
+Kuwait,2016,9825,4266
+Kuwait,2017,10190,4267
+Kuwait,2018,9195,4268
+Kuwait,2019,8375,4269
+Kuwait,2020,6846,4270
+Kuwait,2021,5923,4271
+Kuwait,2022,5427,4272
+Lebanon,1999,1582,4273
+Lebanon,2000,2005,4274
+Lebanon,2001,2435,4275
+Lebanon,2002,2364,4276
+Lebanon,2003,2179,4277
+Lebanon,2004,2040,4278
+Lebanon,2005,1950,4279
+Lebanon,2006,1852,4280
+Lebanon,2007,1807,4281
+Lebanon,2008,1823,4282
+Lebanon,2009,1608,4283
+Lebanon,2010,1462,4284
+Lebanon,2011,1350,4285
+Lebanon,2012,1266,4286
+Lebanon,2013,1367,4287
+Lebanon,2014,1416,4288
+Lebanon,2015,1486,4289
+Lebanon,2016,1556,4290
+Lebanon,2017,1633,4291
+Lebanon,2018,1672,4292
+Lebanon,2019,1709,4293
+Lebanon,2020,1700,4294
+Lebanon,2021,1958,4295
+Lebanon,2022,2097,4296
+Oman,1999,661,4297
+Oman,2000,702,4298
+Oman,2001,623,4299
+Oman,2002,540,4300
+Oman,2003,445,4301
+Oman,2004,354,4302
+Oman,2005,337,4303
+Oman,2006,254,4304
+Oman,2007,361,4305
+Oman,2008,271,4306
+Oman,2009,286,4307
+Oman,2010,313,4308
+Oman,2011,538,4309
+Oman,2012,980,4310
+Oman,2013,1504,4311
+Oman,2014,2200,4312
+Oman,2015,2856,4313
+Oman,2016,2876,4314
+Oman,2017,3097,4315
+Oman,2018,2963,4316
+Oman,2019,2808,4317
+Oman,2020,2433,4318
+Oman,2021,2202,4319
+Oman,2022,2077,4320
+Palestinian Territories,1999,209,4321
+Palestinian Territories,2000,237,4322
+Palestinian Territories,2001,232,4323
+Palestinian Territories,2002,287,4324
+Palestinian Territories,2003,247,4325
+Palestinian Territories,2004,268,4326
+Palestinian Territories,2005,309,4327
+Palestinian Territories,2006,361,4328
+Palestinian Territories,2007,249,4329
+Palestinian Territories,2008,362,4330
+Palestinian Territories,2009,304,4331
+Palestinian Territories,2010,331,4332
+Palestinian Territories,2011,331,4333
+Palestinian Territories,2012,319,4334
+Palestinian Territories,2013,429,4335
+Palestinian Territories,2014,458,4336
+Palestinian Territories,2015,468,4337
+Palestinian Territories,2016,423,4338
+Palestinian Territories,2017,480,4339
+Palestinian Territories,2018,468,4340
+Palestinian Territories,2019,478,4341
+Palestinian Territories,2020,424,4342
+Palestinian Territories,2021,485,4343
+Palestinian Territories,2022,457,4344
+Qatar,1999,416,4345
+Qatar,2000,463,4346
+Qatar,2001,461,4347
+Qatar,2002,441,4348
+Qatar,2003,354,4349
+Qatar,2004,290,4350
+Qatar,2005,254,4351
+Qatar,2006,296,4352
+Qatar,2007,345,4353
+Qatar,2008,463,4354
+Qatar,2009,663,4355
+Qatar,2010,716,4356
+Qatar,2011,979,4357
+Qatar,2012,994,4358
+Qatar,2013,1191,4359
+Qatar,2014,1252,4360
+Qatar,2015,1443,4361
+Qatar,2016,1420,4362
+Qatar,2017,1127,4363
+Qatar,2018,834,4364
+Qatar,2019,670,4365
+Qatar,2020,562,4366
+Qatar,2021,500,4367
+Qatar,2022,404,4368
+Saudi Arabia,1999,5156,4369
+Saudi Arabia,2000,5273,4370
+Saudi Arabia,2001,5579,4371
+Saudi Arabia,2002,4175,4372
+Saudi Arabia,2003,3521,4373
+Saudi Arabia,2004,3035,4374
+Saudi Arabia,2005,3448,4375
+Saudi Arabia,2006,7886,4376
+Saudi Arabia,2007,9873,4377
+Saudi Arabia,2008,12661,4378
+Saudi Arabia,2009,15810,4379
+Saudi Arabia,2010,22704,4380
+Saudi Arabia,2011,34139,4381
+Saudi Arabia,2012,44566,4382
+Saudi Arabia,2013,53919,4383
+Saudi Arabia,2014,59945,4384
+Saudi Arabia,2015,61287,4385
+Saudi Arabia,2016,52611,4386
+Saudi Arabia,2017,44432,4387
+Saudi Arabia,2018,37080,4388
+Saudi Arabia,2019,30957,4389
+Saudi Arabia,2020,21933,4390
+Saudi Arabia,2021,18206,4391
+Saudi Arabia,2022,15989,4392
+Syria,1999,641,4393
+Syria,2000,713,4394
+Syria,2001,735,4395
+Syria,2002,642,4396
+Syria,2003,556,4397
+Syria,2004,498,4398
+Syria,2005,446,4399
+Syria,2006,462,4400
+Syria,2007,517,4401
+Syria,2008,454,4402
+Syria,2009,424,4403
+Syria,2010,526,4404
+Syria,2011,458,4405
+Syria,2012,505,4406
+Syria,2013,693,4407
+Syria,2014,792,4408
+Syria,2015,783,4409
+Syria,2016,827,4410
+Syria,2017,726,4411
+Syria,2018,566,4412
+Syria,2019,463,4413
+Syria,2020,425,4414
+Syria,2021,385,4415
+Syria,2022,402,4416
+United Arab Emirates,1999,2539,4417
+United Arab Emirates,2000,2659,4418
+United Arab Emirates,2001,2121,4419
+United Arab Emirates,2002,1792,4420
+United Arab Emirates,2003,1248,4421
+United Arab Emirates,2004,1158,4422
+United Arab Emirates,2005,978,4423
+United Arab Emirates,2006,885,4424
+United Arab Emirates,2007,983,4425
+United Arab Emirates,2008,1218,4426
+United Arab Emirates,2009,1653,4427
+United Arab Emirates,2010,1871,4428
+United Arab Emirates,2011,2097,4429
+United Arab Emirates,2012,2256,4430
+United Arab Emirates,2013,2784,4431
+United Arab Emirates,2014,2878,4432
+United Arab Emirates,2015,2920,4433
+United Arab Emirates,2016,2753,4434
+United Arab Emirates,2017,2486,4435
+United Arab Emirates,2018,2361,4436
+United Arab Emirates,2019,2074,4437
+United Arab Emirates,2020,1737,4438
+United Arab Emirates,2021,1618,4439
+United Arab Emirates,2022,1502,4440
+Yemen,1999,372,4441
+Yemen,2000,411,4442
+Yemen,2001,436,4443
+Yemen,2002,375,4444
+Yemen,2003,284,4445
+Yemen,2004,238,4446
+Yemen,2005,246,4447
+Yemen,2006,248,4448
+Yemen,2007,233,4449
+Yemen,2008,249,4450
+Yemen,2009,265,4451
+Yemen,2010,268,4452
+Yemen,2011,269,4453
+Yemen,2012,353,4454
+Yemen,2013,440,4455
+Yemen,2014,516,4456
+Yemen,2015,599,4457
+Yemen,2016,658,4458
+Yemen,2017,517,4459
+Yemen,2018,398,4460
+Yemen,2019,320,4461
+Yemen,2020,293,4462
+Yemen,2021,305,4463
+Yemen,2022,305,4464
+North Africa,1999,4172,4465
+North Africa,2000,4818,4466
+North Africa,2001,5215,4467
+North Africa,2002,4787,4468
+North Africa,2003,4208,4469
+North Africa,2004,3608,4470
+North Africa,2005,3461,4471
+North Africa,2006,3379,4472
+North Africa,2007,3634,4473
+North Africa,2008,4229,4474
+North Africa,2009,4941,4475
+North Africa,2010,5420,4476
+North Africa,2011,5456,4477
+North Africa,2012,5879,4478
+North Africa,2013,6246,4479
+North Africa,2014,6692,4480
+North Africa,2015,7301,4481
+North Africa,2016,7544,4482
+North Africa,2017,7268,4483
+North Africa,2018,6961,4484
+North Africa,2019,6982,4485
+North Africa,2020,6282,4486
+North Africa,2021,6790,4487
+North Africa,2022,7281,4488
+Algeria,1999,214,4489
+Algeria,2000,220,4490
+Algeria,2001,196,4491
+Algeria,2002,177,4492
+Algeria,2003,148,4493
+Algeria,2004,143,4494
+Algeria,2005,132,4495
+Algeria,2006,145,4496
+Algeria,2007,179,4497
+Algeria,2008,172,4498
+Algeria,2009,178,4499
+Algeria,2010,158,4500
+Algeria,2011,177,4501
+Algeria,2012,176,4502
+Algeria,2013,173,4503
+Algeria,2014,175,4504
+Algeria,2015,158,4505
+Algeria,2016,192,4506
+Algeria,2017,212,4507
+Algeria,2018,238,4508
+Algeria,2019,239,4509
+Algeria,2020,219,4510
+Algeria,2021,268,4511
+Algeria,2022,302,4512
+Egypt,1999,1964,4513
+Egypt,2000,2255,4514
+Egypt,2001,2409,4515
+Egypt,2002,2155,4516
+Egypt,2003,1822,4517
+Egypt,2004,1574,4518
+Egypt,2005,1509,4519
+Egypt,2006,1664,4520
+Egypt,2007,1766,4521
+Egypt,2008,1915,4522
+Egypt,2009,2271,4523
+Egypt,2010,2181,4524
+Egypt,2011,2201,4525
+Egypt,2012,2608,4526
+Egypt,2013,2832,4527
+Egypt,2014,2974,4528
+Egypt,2015,3442,4529
+Egypt,2016,3715,4530
+Egypt,2017,3701,4531
+Egypt,2018,3675,4532
+Egypt,2019,3859,4533
+Egypt,2020,3672,4534
+Egypt,2021,3967,4535
+Egypt,2022,4247,4536
+Libya,1999,38,4537
+Libya,2000,39,4538
+Libya,2001,42,4539
+Libya,2002,33,4540
+Libya,2003,39,4541
+Libya,2004,39,4542
+Libya,2005,38,4543
+Libya,2006,93,4544
+Libya,2007,155,4545
+Libya,2008,667,4546
+Libya,2009,1064,4547
+Libya,2010,1494,4548
+Libya,2011,1328,4549
+Libya,2012,1343,4550
+Libya,2013,1379,4551
+Libya,2014,1578,4552
+Libya,2015,1514,4553
+Libya,2016,1311,4554
+Libya,2017,1064,4555
+Libya,2018,884,4556
+Libya,2019,720,4557
+Libya,2020,563,4558
+Libya,2021,472,4559
+Libya,2022,449,4560
+Morocco,1999,1607,4561
+Morocco,2000,1917,4562
+Morocco,2001,2102,4563
+Morocco,2002,2034,4564
+Morocco,2003,1835,4565
+Morocco,2004,1571,4566
+Morocco,2005,1502,4567
+Morocco,2006,1202,4568
+Morocco,2007,1132,4569
+Morocco,2008,1169,4570
+Morocco,2009,1120,4571
+Morocco,2010,1201,4572
+Morocco,2011,1305,4573
+Morocco,2012,1293,4574
+Morocco,2013,1324,4575
+Morocco,2014,1373,4576
+Morocco,2015,1495,4577
+Morocco,2016,1634,4578
+Morocco,2017,1563,4579
+Morocco,2018,1461,4580
+Morocco,2019,1499,4581
+Morocco,2020,1294,4582
+Morocco,2021,1466,4583
+Morocco,2022,1603,4584
+Tunisia,1999,344,4585
+Tunisia,2000,385,4586
+Tunisia,2001,458,4587
+Tunisia,2002,381,4588
+Tunisia,2003,341,4589
+Tunisia,2004,268,4590
+Tunisia,2005,277,4591
+Tunisia,2006,274,4592
+Tunisia,2007,402,4593
+Tunisia,2008,306,4594
+Tunisia,2009,308,4595
+Tunisia,2010,386,4596
+Tunisia,2011,445,4597
+Tunisia,2012,459,4598
+Tunisia,2013,538,4599
+Tunisia,2014,592,4600
+Tunisia,2015,692,4601
+Tunisia,2016,692,4602
+Tunisia,2017,728,4603
+Tunisia,2018,703,4604
+Tunisia,2019,665,4605
+Tunisia,2020,534,4606
+Tunisia,2021,617,4607
+Tunisia,2022,680,4608
+Canada,1999,23544,4609
+Canada,2000,25279,4610
+Canada,2001,26514,4611
+Canada,2002,26513,4612
+Canada,2003,27017,4613
+Canada,2004,28140,4614
+Canada,2005,28202,4615
+Canada,2006,28280,4616
+Canada,2007,29051,4617
+Canada,2008,29697,4618
+Canada,2009,28145,4619
+Canada,2010,27546,4620
+Canada,2011,26821,4621
+Canada,2012,27357,4622
+Canada,2013,28304,4623
+Canada,2014,27240,4624
+Canada,2015,26973,4625
+Canada,2016,27065,4626
+Canada,2017,25909,4627
+Canada,2018,26122,4628
+Canada,2019,25992,4629
+Canada,2020,25143,4630
+Canada,2021,27013,4631
+Canada,2022,27876,4632
+Australia,1999,2617,4633
+Australia,2000,2645,4634
+Australia,2001,2707,4635
+Australia,2002,2777,4636
+Australia,2003,2706,4637
+Australia,2004,2659,4638
+Australia,2005,2806,4639
+Australia,2006,2797,4640
+Australia,2007,3088,4641
+Australia,2008,3203,4642
+Australia,2009,3296,4643
+Australia,2010,3777,4644
+Australia,2011,3848,4645
+Australia,2012,4121,4646
+Australia,2013,4377,4647
+Australia,2014,4511,4648
+Australia,2015,4752,4649
+Australia,2016,4933,4650
+Australia,2017,4908,4651
+Australia,2018,4930,4652
+Australia,2019,4982,4653
+Australia,2020,3623,4654
+Australia,2021,3892,4655
+Australia,2022,4504,4656
+Cook Islands,1999,9,4657
+Cook Islands,2000,4,4658
+Cook Islands,2001,4,4659
+Cook Islands,2002,5,4660
+Cook Islands,2003,3,4661
+Cook Islands,2004,3,4662
+Cook Islands,2005,12,4663
+Cook Islands,2006,3,4664
+Cook Islands,2007,5,4665
+Cook Islands,2008,1,4666
+Cook Islands,2009,9,4667
+Cook Islands,2010,4,4668
+Cook Islands,2011,6,4669
+Cook Islands,2012,7,4670
+Cook Islands,2013,5,4671
+Cook Islands,2014,2,4672
+Cook Islands,2015,5,4673
+Cook Islands,2016,0,4674
+Cook Islands,2017,5,4675
+Cook Islands,2018,17,4676
+Cook Islands,2019,0,4677
+Cook Islands,2020,8,4678
+Cook Islands,2021,4,4679
+Cook Islands,2022,2,4680
+Fiji,1999,214,4681
+Fiji,2000,250,4682
+Fiji,2001,247,4683
+Fiji,2002,212,4684
+Fiji,2003,177,4685
+Fiji,2004,184,4686
+Fiji,2005,177,4687
+Fiji,2006,112,4688
+Fiji,2007,177,4689
+Fiji,2008,192,4690
+Fiji,2009,157,4691
+Fiji,2010,138,4692
+Fiji,2011,122,4693
+Fiji,2012,136,4694
+Fiji,2013,124,4695
+Fiji,2014,89,4696
+Fiji,2015,111,4697
+Fiji,2016,100,4698
+Fiji,2017,109,4699
+Fiji,2018,98,4700
+Fiji,2019,90,4701
+Fiji,2020,89,4702
+Fiji,2021,85,4703
+Fiji,2022,134,4704
+French Polynesia,1999,94,4705
+French Polynesia,2000,71,4706
+French Polynesia,2001,110,4707
+French Polynesia,2002,80,4708
+French Polynesia,2003,97,4709
+French Polynesia,2004,91,4710
+French Polynesia,2005,87,4711
+French Polynesia,2006,21,4712
+French Polynesia,2007,58,4713
+French Polynesia,2008,35,4714
+French Polynesia,2009,28,4715
+French Polynesia,2010,30,4716
+French Polynesia,2011,42,4717
+French Polynesia,2012,37,4718
+French Polynesia,2013,28,4719
+French Polynesia,2014,23,4720
+French Polynesia,2015,31,4721
+French Polynesia,2016,30,4722
+French Polynesia,2017,30,4723
+French Polynesia,2018,60,4724
+French Polynesia,2019,49,4725
+French Polynesia,2020,65,4726
+French Polynesia,2021,39,4727
+French Polynesia,2022,56,4728
+Kiribati,1999,46,4729
+Kiribati,2000,42,4730
+Kiribati,2001,35,4731
+Kiribati,2002,47,4732
+Kiribati,2003,53,4733
+Kiribati,2004,32,4734
+Kiribati,2005,34,4735
+Kiribati,2006,58,4736
+Kiribati,2007,36,4737
+Kiribati,2008,30,4738
+Kiribati,2009,31,4739
+Kiribati,2010,31,4740
+Kiribati,2011,48,4741
+Kiribati,2012,70,4742
+Kiribati,2013,84,4743
+Kiribati,2014,41,4744
+Kiribati,2015,53,4745
+Kiribati,2016,64,4746
+Kiribati,2017,58,4747
+Kiribati,2018,91,4748
+Kiribati,2019,67,4749
+Kiribati,2020,53,4750
+Kiribati,2021,28,4751
+Kiribati,2022,42,4752
+Nauru,1999,4,4753
+Nauru,2000,4,4754
+Nauru,2001,2,4755
+Nauru,2002,3,4756
+Nauru,2003,0,4757
+Nauru,2004,8,4758
+Nauru,2005,8,4759
+Nauru,2006,5,4760
+Nauru,2007,3,4761
+Nauru,2008,6,4762
+Nauru,2009,2,4763
+Nauru,2010,11,4764
+Nauru,2011,7,4765
+Nauru,2012,1,4766
+Nauru,2013,6,4767
+Nauru,2014,9,4768
+Nauru,2015,0,4769
+Nauru,2016,1,4770
+Nauru,2017,1,4771
+Nauru,2018,1,4772
+Nauru,2019,2,4773
+Nauru,2020,1,4774
+Nauru,2021,3,4775
+Nauru,2022,3,4776
+New Caledonia,1999,12,4777
+New Caledonia,2000,7,4778
+New Caledonia,2001,2,4779
+New Caledonia,2002,9,4780
+New Caledonia,2003,9,4781
+New Caledonia,2004,9,4782
+New Caledonia,2005,21,4783
+New Caledonia,2006,5,4784
+New Caledonia,2007,9,4785
+New Caledonia,2008,7,4786
+New Caledonia,2009,12,4787
+New Caledonia,2010,13,4788
+New Caledonia,2011,8,4789
+New Caledonia,2012,7,4790
+New Caledonia,2013,9,4791
+New Caledonia,2014,7,4792
+New Caledonia,2015,2,4793
+New Caledonia,2016,5,4794
+New Caledonia,2017,6,4795
+New Caledonia,2018,4,4796
+New Caledonia,2019,6,4797
+New Caledonia,2020,7,4798
+New Caledonia,2021,2,4799
+New Caledonia,2022,2,4800
+New Zealand,1999,956,4801
+New Zealand,2000,971,4802
+New Zealand,2001,1046,4803
+New Zealand,2002,1041,4804
+New Zealand,2003,962,4805
+New Zealand,2004,900,4806
+New Zealand,2005,929,4807
+New Zealand,2006,870,4808
+New Zealand,2007,1021,4809
+New Zealand,2008,1074,4810
+New Zealand,2009,1103,4811
+New Zealand,2010,1164,4812
+New Zealand,2011,1204,4813
+New Zealand,2012,1311,4814
+New Zealand,2013,1337,4815
+New Zealand,2014,1472,4816
+New Zealand,2015,1608,4817
+New Zealand,2016,1741,4818
+New Zealand,2017,1785,4819
+New Zealand,2018,1841,4820
+New Zealand,2019,1856,4821
+New Zealand,2020,1520,4822
+New Zealand,2021,1539,4823
+New Zealand,2022,1651,4824
+Niue,1999,5,4825
+Niue,2000,5,4826
+Niue,2001,18,4827
+Niue,2002,17,4828
+Niue,2003,11,4829
+Niue,2004,6,4830
+Niue,2005,5,4831
+Niue,2006,5,4832
+Niue,2007,3,4833
+Niue,2008,11,4834
+Niue,2009,36,4835
+Niue,2010,8,4836
+Niue,2011,8,4837
+Niue,2012,7,4838
+Niue,2013,2,4839
+Niue,2014,8,4840
+Niue,2015,2,4841
+Niue,2016,4,4842
+Niue,2017,4,4843
+Niue,2018,2,4844
+Niue,2019,1,4845
+Niue,2020,10,4846
+Niue,2021,0,4847
+Niue,2022,1,4848
+Norfolk Island,1999,0,4849
+Norfolk Island,2000,1,4850
+Norfolk Island,2001,2,4851
+Norfolk Island,2002,1,4852
+Norfolk Island,2003,0,4853
+Norfolk Island,2004,0,4854
+Norfolk Island,2005,1,4855
+Norfolk Island,2006,0,4856
+Norfolk Island,2007,0,4857
+Norfolk Island,2008,0,4858
+Norfolk Island,2009,5,4859
+Norfolk Island,2010,0,4860
+Norfolk Island,2011,0,4861
+Norfolk Island,2012,0,4862
+Norfolk Island,2013,0,4863
+Norfolk Island,2014,0,4864
+Norfolk Island,2015,2,4865
+Norfolk Island,2016,1,4866
+Norfolk Island,2017,3,4867
+Norfolk Island,2018,1,4868
+Norfolk Island,2019,2,4869
+Norfolk Island,2020,2,4870
+Norfolk Island,2021,0,4871
+Norfolk Island,2022,0,4872
+Palau,1999,58,4873
+Palau,2000,48,4874
+Palau,2001,45,4875
+Palau,2002,57,4876
+Palau,2003,45,4877
+Palau,2004,38,4878
+Palau,2005,34,4879
+Palau,2006,22,4880
+Palau,2007,44,4881
+Palau,2008,33,4882
+Palau,2009,32,4883
+Palau,2010,31,4884
+Palau,2011,21,4885
+Palau,2012,20,4886
+Palau,2013,6,4887
+Palau,2014,10,4888
+Palau,2015,12,4889
+Palau,2016,15,4890
+Palau,2017,31,4891
+Palau,2018,26,4892
+Palau,2019,34,4893
+Palau,2020,25,4894
+Palau,2021,19,4895
+Palau,2022,13,4896
+Papua New Guinea,1999,38,4897
+Papua New Guinea,2000,30,4898
+Papua New Guinea,2001,32,4899
+Papua New Guinea,2002,37,4900
+Papua New Guinea,2003,32,4901
+Papua New Guinea,2004,35,4902
+Papua New Guinea,2005,64,4903
+Papua New Guinea,2006,27,4904
+Papua New Guinea,2007,35,4905
+Papua New Guinea,2008,56,4906
+Papua New Guinea,2009,52,4907
+Papua New Guinea,2010,50,4908
+Papua New Guinea,2011,60,4909
+Papua New Guinea,2012,78,4910
+Papua New Guinea,2013,79,4911
+Papua New Guinea,2014,87,4912
+Papua New Guinea,2015,87,4913
+Papua New Guinea,2016,77,4914
+Papua New Guinea,2017,83,4915
+Papua New Guinea,2018,86,4916
+Papua New Guinea,2019,88,4917
+Papua New Guinea,2020,100,4918
+Papua New Guinea,2021,92,4919
+Papua New Guinea,2022,104,4920
+Samoa,1999,189,4921
+Samoa,2000,118,4922
+Samoa,2001,107,4923
+Samoa,2002,125,4924
+Samoa,2003,103,4925
+Samoa,2004,123,4926
+Samoa,2005,87,4927
+Samoa,2006,27,4928
+Samoa,2007,72,4929
+Samoa,2008,94,4930
+Samoa,2009,43,4931
+Samoa,2010,49,4932
+Samoa,2011,51,4933
+Samoa,2012,53,4934
+Samoa,2013,51,4935
+Samoa,2014,21,4936
+Samoa,2015,60,4937
+Samoa,2016,56,4938
+Samoa,2017,93,4939
+Samoa,2018,103,4940
+Samoa,2019,76,4941
+Samoa,2020,106,4942
+Samoa,2021,72,4943
+Samoa,2022,66,4944
+Solomon Islands,1999,5,4945
+Solomon Islands,2000,7,4946
+Solomon Islands,2001,8,4947
+Solomon Islands,2002,10,4948
+Solomon Islands,2003,9,4949
+Solomon Islands,2004,19,4950
+Solomon Islands,2005,12,4951
+Solomon Islands,2006,6,4952
+Solomon Islands,2007,14,4953
+Solomon Islands,2008,6,4954
+Solomon Islands,2009,8,4955
+Solomon Islands,2010,7,4956
+Solomon Islands,2011,13,4957
+Solomon Islands,2012,10,4958
+Solomon Islands,2013,11,4959
+Solomon Islands,2014,7,4960
+Solomon Islands,2015,5,4961
+Solomon Islands,2016,8,4962
+Solomon Islands,2017,9,4963
+Solomon Islands,2018,15,4964
+Solomon Islands,2019,17,4965
+Solomon Islands,2020,16,4966
+Solomon Islands,2021,14,4967
+Solomon Islands,2022,10,4968
+Tonga,1999,164,4969
+Tonga,2000,188,4970
+Tonga,2001,164,4971
+Tonga,2002,144,4972
+Tonga,2003,111,4973
+Tonga,2004,146,4974
+Tonga,2005,168,4975
+Tonga,2006,47,4976
+Tonga,2007,201,4977
+Tonga,2008,115,4978
+Tonga,2009,102,4979
+Tonga,2010,103,4980
+Tonga,2011,104,4981
+Tonga,2012,105,4982
+Tonga,2013,116,4983
+Tonga,2014,95,4984
+Tonga,2015,130,4985
+Tonga,2016,133,4986
+Tonga,2017,169,4987
+Tonga,2018,186,4988
+Tonga,2019,161,4989
+Tonga,2020,189,4990
+Tonga,2021,119,4991
+Tonga,2022,147,4992
+Tuvalu,1999,4,4993
+Tuvalu,2000,2,4994
+Tuvalu,2001,2,4995
+Tuvalu,2002,9,4996
+Tuvalu,2003,5,4997
+Tuvalu,2004,1,4998
+Tuvalu,2005,1,4999
+Tuvalu,2006,3,5000
+Tuvalu,2007,5,5001
+Tuvalu,2008,4,5002
+Tuvalu,2009,2,5003
+Tuvalu,2010,2,5004
+Tuvalu,2011,3,5005
+Tuvalu,2012,2,5006
+Tuvalu,2013,1,5007
+Tuvalu,2014,7,5008
+Tuvalu,2015,4,5009
+Tuvalu,2016,3,5010
+Tuvalu,2017,4,5011
+Tuvalu,2018,4,5012
+Tuvalu,2019,4,5013
+Tuvalu,2020,6,5014
+Tuvalu,2021,1,5015
+Tuvalu,2022,3,5016
+Vanuatu,1999,3,5017
+Vanuatu,2000,5,5018
+Vanuatu,2001,6,5019
+Vanuatu,2002,8,5020
+Vanuatu,2003,5,5021
+Vanuatu,2004,7,5022
+Vanuatu,2005,9,5023
+Vanuatu,2006,5,5024
+Vanuatu,2007,5,5025
+Vanuatu,2008,5,5026
+Vanuatu,2009,5,5027
+Vanuatu,2010,8,5028
+Vanuatu,2011,8,5029
+Vanuatu,2012,7,5030
+Vanuatu,2013,7,5031
+Vanuatu,2014,8,5032
+Vanuatu,2015,9,5033
+Vanuatu,2016,11,5034
+Vanuatu,2017,14,5035
+Vanuatu,2018,15,5036
+Vanuatu,2019,13,5037
+Vanuatu,2020,11,5038
+Vanuatu,2021,11,5039
+Vanuatu,2022,8,5040
