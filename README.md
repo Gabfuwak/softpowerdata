@@ -1,4 +1,5 @@
 # PROJET WEB SEMANTIQUE
+_Le code du projet est assez mal abouti, mais je trouve le concept super donc le repo restera public pour l'instant_
 
 ## Soft power: A quel point la popularité d'un film aide au rayonnement international d'un pays?
 
