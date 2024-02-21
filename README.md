@@ -4,7 +4,7 @@ Le readme est plus une description globale du projet et du cheminement pour arri
 
 ## Soft power: A quel point la popularité d'un film aide au rayonnement international d'un pays?
 
-On a tous déjà entendu parler de soft power, mais qu'est-ce que concrètement le soft power?
+Le soft power est l'influence culturelle appliquée a l'international par un pays. Il a des impacts sur l'économie, la culture des autres pays, les alliances politiques, militaires etc..
 
 ### Comment quantifier le softpower?
 
