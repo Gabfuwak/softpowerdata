@@ -1,29 +1,30 @@
 # PROJET WEB SEMANTIQUE
-_Le code du projet est assez mal abouti, mais je trouve le concept super donc le repo restera public pour l'instant_
+_Le code du projet est assez mal abouti, mais je trouve le concept super donc le repo restera public pour l'instant.
+Le readme est plus une description globale du projet et du cheminement pour arriver a la fin (ce que j'ai dit a l'oral de soutenance) qu'un readme classique.
 
 ## Soft power: A quel point la popularité d'un film aide au rayonnement international d'un pays?
 
-On a tous déjà entendu parler de soft power
--C'est quoi le soft power
+On a tous déjà entendu parler de soft power, mais qu'est-ce que concrètement le soft power?
 
 ### Comment quantifier le softpower?
 
-Plein de façons de faire, j'ai pas trop le temps de les detailler en 5min ici, je vous invite a lire ce court papier de 3 pages tres interessant pour plus de details.
+Beaucoup de méthodes permettent de quantifier le soft power, je vous invite a lire ce court papier de 3 pages très intéressant sur lequel ce projet s'est basé pour plus de détails.
+<https://sites.nationalacademies.org/cs/groups/dbassesite/documents/webpage/dbasse_179613.pdf>
 
-Echelle "d'importance"
- - Acheter un ticket pour voir un film au cinema
- - Visiter le pays pour des vacances
- - Faire ses etudes dans le pays
- - Demenager sur du long/tres logn terme pour le pays
+En résumé, on considère différentes action qu'un habitant d'un pays peut faire avec une certaine échelle d'importance: 
+ 1. Acheter un ticket pour voir un film au cinéma
+ 2. Visiter le pays pour des vacances
+ 3. Faire ses études dans le pays
+ 4. Déménager sur du long/tres long terme dans le pays
 
 J'ai choisi les USA pour 2 raison:
  - C'est un cas d'ecole du soft power, ils ont pratiquement inventé le concept
  - Les données sont disponibles assez facilement
 
-J'ai choisi d'etudier donc, l'impact des films amerinains sur
+J'ai choisi d'étudier donc, l'impact des films américains sur le nombre d'étudiants étranger qui viennent y faire leurs études.
 
 
-## La structure de mon graphe de conaissances
+## La structure de mon graphe de connaissances
 
 3 classes:
 - Country, qui represente un pays
@@ -34,35 +35,35 @@ J'ai choisi d'etudier donc, l'impact des films amerinains sur
   - hasMovie (Tous les films sortis dans ce pays, inverse of hasCountry)
   - hasStudents (les etudiants originaires de ce pays chaque années, inverse of hasOrigin)
 
-- Movie, qui represente un film sorti dans un pays
+- Movie, qui représente un film sorti dans un pays
  - Data properties
   - un box office
   - un nom
  - Object Properties
   - hasCountry (pays dans lequel le film a été tourné, inverse of hasMovie)
 
-- Students, (assez mal nommé mais pas trouvé mieux) qui represente un nombre d'etudiants pour une année donnée
+- Students, (assez mal nommé mais pas trouvé mieux) qui représente un nombre d'etudiants pour une année donnée
  - Data properties
   - year
   - number (le nombre d'etudiants)
  - Object properties
   - hasOrigin (son pays d'origine, inverse of hasStudents)
  
-## Recuperation de données
+## Récupération de données
 
-### Recuperation de données pour les etudiants:
+### Récupération de données pour les étudiants:
 
-#### Recuperer les données initiales
+#### Récupérer les données initiales
 
-J'ai récuperé les données "international students" sur https://opendoorsdata.org, un site que j'ai trouvé grace au NTTO ( National Travel and Tourism Office), un departement du US Department of commerce.
+J'ai récupéré les données "international students" sur https://opendoorsdata.org, un site que j'ai trouvé grâce au NTTO ( National Travel and Tourism Office), un département du US Department of commerce.
 
-Le site donne un fichier excel, que j'ai nettoyé a la main, pour au final obtenir mon CSV intermediaire.
+Le site donne un fichier excel, que j'ai nettoyé a la main, pour au final obtenir mon CSV intermédiaire.
 
-J'ai ensuite donné le CSV a un script python pour que son format soit plus simple a integrer dans mon graphe de données.
+J'ai ensuite donné le CSV a un script python pour que son format soit plus simple a intégrer dans mon graphe de données. J'ai utilisé l'outil _Ontotext refine_ pour insérer les données. 
 
-### Pipeline recuperation de données des films:
+### Pipeline récupération de données des films:
 
-#### On fais une requete a wikidata de tous les films americains (environ 27000)
+#### On fais une requête a Wikidata de tous les films américains (environ 27000)
 ```sparql
 SELECT DISTINCT ?movie ?movieLabel ?release_date
 WHERE {
@@ -77,42 +78,41 @@ WHERE {
 ORDER BY DESC(?release_date)
 ```
 
-#### On enleve les doublons (environ 19000 restants)
-->note: si deux films ont le meme nom et sont sortis a une date differente, je le considere comme doublon et le supprime de ma liste. C'est potentiellement un probleme si par exemple un film tres impactant est ressorti a deux periodes differentes. C'est une des limitations de ma methode.
+1.  **On enlève les doublons (environ 19000 restants)**
+_Note: si deux films ont le même nom et sont sortis a une date différente, je le considère comme doublon et le supprime de ma liste. C'est potentiellement un problème si par exemple un film très impactant est ressorti a deux périodes différentes. C'est une des limitations de ma méthode._
 
-#### On la donne a un script python qui va, pour chaque film, recuperer son box office en fonction du pays sur box office mojo et les mettre dans un CSV
-->note: il manque de la data, ce n'est pas trop grave car les films impactants culturellements sont aussi souvent les plus connus, et la data ne manque pas sur le film.
-->paralelisation
+2. **On la donne a un script python qui va, pour chaque film, récupérer son box office en fonction du pays sur <boxofficemojo.com> et les mettre dans un CSV**
+_Note: il manque des données. Ce n'est pas trop grave car les films impactant culturellement sont aussi souvent les plus connus, et sera donc répertorié sur le site._
 
-#### On recupere le CSV dans ontorefine et on transforme en triplets.
+
+3. **On recupere le CSV dans Ontotext refine et on transforme en triplets.**
 
 
 ## Affichage des données
 
-On affiche les données grace a un line chart de chartJS.
+On affiche les données grâce a un line chart de chartJS.
 
 On a 3 graphes, 2 de données, un d'analyse.
 
 - Les deux graphes de données 
- - Le nombre d'étudiants aux USA originaire du pays etudié (année par année)
- - le revenu total de tous les films americains dans le pays etudié (année par année)
+ - Le nombre d'étudiants aux USA originaire du pays étudié (année par année)
+ - le revenu total de tous les films américains dans le pays étudié (année par année)
 
-Le graphe d'analyse est en fait une seule valeur. C'est une quantité de 0 a 1. 1 veut dire que les deux courbes sont exactement les memes, 0 veut dire qu'elles sont exactement inverses.
+Le graphe d'analyse est en fait une seule valeur. C'est une quantité de 0 a 1. 1 veut dire que les deux courbes sont exactement les mêmes, 0 veut dire qu'elles sont exactement inverses.
 
-Ici on essaie de montrer que les courbes ont une tres grosses correlation et donc une valeur proche de 1.
+Ici on essaie de montrer que les courbes ont une très grosses corrélation et donc une valeur proche de 1.
 
 
 ## Conclusion
 
-Pas vraiment de correlation, le box office monte dans tous les pays, et au final, si il y a une forte correlation au global, c'est juste parce que les deux valeurs augmentent de facon paralleles sans forcement qu'une cause l'autre.
+Il y a une forte corrélation, mais pas forcement de causalité. En effet, le box office monte dans tous les pays, et au final, les deux valeurs augmentent de façon parallèles sans forcement qu'une cause l'autre.
 
-Des cas comme le Japon ou l'Argentine ont une tres forte correlation inverse, de moins en moins d'etudiants aux USA de plus en plus de box office pour les films des USA.
+On peut expliquer ça par l'augmentation du niveau de vie dans beaucoup de pays, qui contribue a alimenter le marché du cinéma, dont américain.
 
-On pourrait avoir plusieurs perspectives d'ameliorations. Les données des visas vacances pouraient etre plus representatifs du soft power par exemple. on pourrait aussi essayer de trouver des donées plus anciennes, malheureusement elles ne sont pas precises avant 1999 pour les USA.
+Des cas comme le Japon ou l'Argentine ont une très forte corrélation inverse, de moins en moins d'étudiants aux USA de plus en plus de box office pour les films des USA.
 
-On pourrait aussi etendre a d'autres medias que les films, la musique par exemple (bien que plus difficilement quantifiable, streams, albums vendus, les données sont differentes selon les epoques)
+On pourrait avoir plusieurs perspectives d'améliorations. Les données des visas vacances pourraient être plus représentatifs du soft power par exemple. on pourrait aussi essayer de trouver des données plus anciennes, malheureusement elles ne sont pas précises avant 1999 pour les USA.
 
+Une autre possibilité serait de voir les parts de marché des différents films. Si la proportion de films américains augmente dans la totalité des films consommés dans un pays, cela pourrait gommer l'effet de l'augmentation globale du marché du cinéma dans les pays dont le niveau de vie augmente
 
-## Sources/extension du sujet:
-
-https://sites.nationalacademies.org/cs/groups/dbassesite/documents/webpage/dbasse_179613.pdf
+On pourrait aussi étendre a d'autres médias que les films, la musique par exemple (bien que plus difficilement quantifiable, streams, albums vendus, les données sont différentes selon les époques)
